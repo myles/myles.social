@@ -7,13 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2020/11/09/raccoon-taking-a.html",
+				
+				"content_html": "<p>Raccoon taking a nap.\n<img src=\"https://myles.life/uploads/2020/a74c132308.jpg\" alt=\"BFAAF1D1-87B3-416D-8E52-6B294A909371.jpg\" /></p>\n",
+				"content_text": "Raccoon taking a nap.\n![BFAAF1D1-87B3-416D-8E52-6B294A909371.jpg](https://myles.life/uploads/2020/a74c132308.jpg)\n",
+				"date_published": "2020-11-09T21:40:34-04:00",
+				"url": "https://myles.life/2020/11/09/raccoon-taking-a.html"
+			},
+			{
+				"id": "http://myles.micro.blog/2020/10/08/graffiti.html",
+				
+				"content_html": "<p>Graffiti.</p>\n\n<p><img src=\"uploads/2020/71a1439c13.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Graffiti.\n\n<img src=\"uploads/2020/71a1439c13.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-10-08T19:27:39-04:00",
+				"url": "https://myles.life/2020/10/08/graffiti.html",
+				"tags": [" Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2020/10/03/printed-a-adapter.html",
 				
 				"content_html": "<p>Printed a 45 adapter today. It failed the first time and made modern art.</p>\n\n<p><a href=\"https://myles.life/uploads/2020/8aa7cfe5cc.jpg\"><img src=\"uploads/2020/8aa7cfe5cc.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/ad70805a7b.jpg\"><img src=\"uploads/2020/ad70805a7b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
 				"content_text": "Printed a 45 adapter today. It failed the first time and made modern art. \n\n<a href=\"https://myles.life/uploads/2020/8aa7cfe5cc.jpg\"><img src=\"uploads/2020/8aa7cfe5cc.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/ad70805a7b.jpg\"><img src=\"uploads/2020/ad70805a7b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
-				"date_published": "2020-10-03T20:20:06-04:00",
+				"date_published": "2020-10-03T20:20:00-04:00",
 				"url": "https://myles.life/2020/10/03/printed-a-adapter.html",
-				"tags": ["Photography"]
+				"tags": [" Photography","3D Printing"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/09/19/went-for-a.html",
@@ -22,16 +39,16 @@
 				"content_text": "Went for a hike today.\n\n<a href=\"https://myles.life/uploads/2020/a52fb4f24f.jpg\"><img src=\"uploads/2020/a52fb4f24f.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/f60055a233.jpg\"><img src=\"uploads/2020/f60055a233.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/82db18fe5d.jpg\"><img src=\"uploads/2020/82db18fe5d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/78987ad37b.jpg\"><img src=\"uploads/2020/78987ad37b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/67de3378fd.jpg\"><img src=\"uploads/2020/67de3378fd.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
 				"date_published": "2020-09-19T13:26:53-04:00",
 				"url": "https://myles.life/2020/09/19/went-for-a.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/09/14/this-whole-tiktok.html",
 				
 				"content_html": "<p>This <a href=\"https://www.wsj.com/articles/microsoft-drops-out-of-bidding-for-tiktoks-u-s-operations-11600039821\" title=\"Oracle Wins Bid for TikTok in U.S., Beating Microsoft\">whole TikTok acquisition</a> is reminding me of when Flip Video got bought by Cisco and shut down two years later. I really miss my FlipCam 💔.</p>\n\n<p><img src=\"uploads/2020/7c4435b8a4.jpg\" width=\"446\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "This [whole TikTok acquisition](https://www.wsj.com/articles/microsoft-drops-out-of-bidding-for-tiktoks-u-s-operations-11600039821 \"Oracle Wins Bid for TikTok in U.S., Beating Microsoft\") is reminding me of when Flip Video got bought by Cisco and shut down two years later. I really miss my FlipCam 💔.\n\n<img src=\"uploads/2020/7c4435b8a4.jpg\" width=\"446\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-09-14T19:49:41-04:00",
+				"date_published": "2020-09-14T19:49:00-04:00",
 				"url": "https://myles.life/2020/09/14/this-whole-tiktok.html",
-				"tags": ["Photography"]
+				"tags": ["Business","Links"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/09/14/this-is-a.html",
@@ -48,7 +65,7 @@
 				"content_text": "There is a bridge by my house that has the coolest spider shadows. \n\n<a href=\"https://myles.life/uploads/2020/2161de9efe.jpg\"><img src=\"uploads/2020/2161de9efe.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/445d74745e.jpg\"><img src=\"uploads/2020/445d74745e.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
 				"date_published": "2020-09-12T20:49:26-04:00",
 				"url": "https://myles.life/2020/09/12/there-is-a.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/09/07/one-minute-of.html",
@@ -61,9 +78,9 @@
 			{
 				"id": "http://myles.micro.blog/2020/09/07/this-vox-video.html",
 				
-				"content_html": "<p>This Vox video on <a href=\"https://youtu.be/-S_f-huz-EU\">how the pandemic distorts time</a> is so awesomely crafted.</p>\n",
-				"content_text": "This Vox video on [how the pandemic distorts time](https://youtu.be/-S_f-huz-EU) is so awesomely crafted. \n",
-				"date_published": "2020-09-07T09:56:54-04:00",
+				"content_html": "<p>This Vox video on <a href=\"https://youtu.be/-S_f-huz-EU\">how the pandemic distorts time</a> is so awesomely crafted.</p>\n\n<iframe frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" width=\"100%\" type=\"text/html\" src=\"https://www.youtube.com/embed/-S_f-huz-EU?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://myles.life/\"></iframe>\n",
+				"content_text": "This Vox video on [how the pandemic distorts time](https://youtu.be/-S_f-huz-EU) is so awesomely crafted.\n\n<iframe frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" width=\"100%\" type=\"text/html\" src=\"https://www.youtube.com/embed/-S_f-huz-EU?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://myles.life/\"></iframe>\n",
+				"date_published": "2020-09-07T09:56:00-04:00",
 				"url": "https://myles.life/2020/09/07/this-vox-video.html"
 			},
 			{
@@ -73,7 +90,7 @@
 				"content_text": "My sleep schedule has been super weird this week.\n\n<img src=\"uploads/2020/16f53c120e.jpg\" width=\"600\" height=\"957\" alt=\"My FitBit sleep schedule for this week ranging from 2.5h to 10.5h.\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-09-06T13:30:07-04:00",
 				"url": "https://myles.life/2020/09/06/my-sleep-schedule.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/09/05/more-street-art.html",
@@ -82,7 +99,7 @@
 				"content_text": "More street art from laneway walks.\n\n<a href=\"https://myles.life/uploads/2020/74e9b6ba93.jpg\"><img src=\"uploads/2020/74e9b6ba93.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/ff20263b30.jpg\"><img src=\"uploads/2020/ff20263b30.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
 				"date_published": "2020-09-05T18:06:06-04:00",
 				"url": "https://myles.life/2020/09/05/more-street-art.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/08/26/been-finding-some.html",
@@ -91,7 +108,7 @@
 				"content_text": "Been finding some cool Alleyways in Toronto lately.\n\n<a href=\"https://myles.life/uploads/2020/f54d8a5f5b.jpg\"><img src=\"uploads/2020/f54d8a5f5b.jpg\" width=\"600\" height=\"450\" alt=\"A Toronto Alleyway\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-08-26T00:01:17-04:00",
 				"url": "https://myles.life/2020/08/26/been-finding-some.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/08/12/lovable.html",
@@ -100,7 +117,7 @@
 				"content_text": "Lovable\n\n<a href=\"https://myles.life/uploads/2020/3dd6d68d26.jpg\"><img src=\"uploads/2020/3dd6d68d26.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-08-12T15:34:18-04:00",
 				"url": "https://myles.life/2020/08/12/lovable.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/08/09/stormy-looking-weather.html",
@@ -109,7 +126,7 @@
 				"content_text": "Stormy looking weather in Ontario Place. \n\n<a href=\"https://myles.life/uploads/2020/79f997c36b.jpg\"><img src=\"uploads/2020/79f997c36b.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-08-09T18:31:45-04:00",
 				"url": "https://myles.life/2020/08/09/stormy-looking-weather.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/07/29/sunset-in-high.html",
@@ -118,7 +135,7 @@
 				"content_text": "Sunset in High Park\n\n<a href=\"https://myles.life/uploads/2020/e1201fa2fb.jpg\"><img src=\"uploads/2020/e1201fa2fb.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/4d886ab87c.jpg\"><img src=\"uploads/2020/4d886ab87c.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-07-29T20:59:08-04:00",
 				"url": "https://myles.life/2020/07/29/sunset-in-high.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/07/26/some-flowers-from.html",
@@ -127,7 +144,7 @@
 				"content_text": "Some flowers from today.\n\n<a href=\"https://myles.life/uploads/2020/5b7d907d8a.jpg\"><img src=\"uploads/2020/5b7d907d8a.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/2e8d5c7e57.jpg\"><img src=\"uploads/2020/2e8d5c7e57.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-07-26T01:17:48-04:00",
 				"url": "https://myles.life/2020/07/26/some-flowers-from.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/07/18/play-around-with.html",
@@ -136,7 +153,7 @@
 				"content_text": "Play around with <em>I Love Film</em>. \n\n<a href=\"https://myles.life/uploads/2020/8ea5710538.jpg\"><img src=\"uploads/2020/8ea5710538.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-07-18T01:24:49-04:00",
 				"url": "https://myles.life/2020/07/18/play-around-with.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/07/08/did-my-morning.html",
@@ -145,7 +162,7 @@
 				"content_text": "Did my morning standup in the community garden. \n\n<a href=\"https://myles.life/uploads/2020/c364dcdba4.jpg\"><img src=\"uploads/2020/c364dcdba4.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/707ac5ef22.jpg\"><img src=\"uploads/2020/707ac5ef22.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/a56234431d.jpg\"><img src=\"uploads/2020/a56234431d.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-07-08T10:44:10-04:00",
 				"url": "https://myles.life/2020/07/08/did-my-morning.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/07/04/really-like-githubs.html",
@@ -162,7 +179,7 @@
 				"content_text": "It’s so hot today. \n\n<a href=\"https://myles.life/uploads/2020/25efb9b4b2.jpg\"><img src=\"uploads/2020/25efb9b4b2.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-07-03T15:45:03-04:00",
 				"url": "https://myles.life/2020/07/03/its-so-hot.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/06/30/toronto-skyline.html",
@@ -171,7 +188,7 @@
 				"content_text": "Toronto Skyline.\n\n<a href=\"https://myles.life/uploads/2020/bb2aec3332.jpg\"><img src=\"uploads/2020/bb2aec3332.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-06-30T21:55:40-04:00",
 				"url": "https://myles.life/2020/06/30/toronto-skyline.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/05/28/foggy-late-afternoon.html",
@@ -180,7 +197,7 @@
 				"content_text": "Foggy late afternoon walk at Ontario Place. \n\n<a href=\"https://myles.life/uploads/2020/451ab0a9d6.jpg\"><img src=\"uploads/2020/451ab0a9d6.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-05-28T19:56:32-04:00",
 				"url": "https://myles.life/2020/05/28/foggy-late-afternoon.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/05/19/the-toronto-skyline.html",
@@ -189,7 +206,7 @@
 				"content_text": "The Toronto Skyline from Inukshuk Park.\n\n<a href=\"https://myles.life/uploads/2020/456a3442e9.jpg\"><img src=\"uploads/2020/456a3442e9.jpg\" width=\"600\" height=\"600\" alt=\"Toronto Skyline\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-05-19T23:08:34-04:00",
 				"url": "https://myles.life/2020/05/19/the-toronto-skyline.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/05/19/i-feel-personally.html",
@@ -206,7 +223,7 @@
 				"content_text": "😜 They’ve open Ontario Place. \n\n<a href=\"https://myles.life/uploads/2020/c04de4bd2b.jpg\"><img src=\"uploads/2020/c04de4bd2b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-05-16T11:21:22-04:00",
 				"url": "https://myles.life/2020/05/16/theyve-open-ontario.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/05/11/current-status-watching.html",
@@ -223,7 +240,7 @@
 				"content_text": "Awesome sky over Lake Ontario. \n\n<a href=\"https://myles.life/uploads/2020/5022391f44.jpg\"><img src=\"uploads/2020/5022391f44.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-05-09T17:55:09-04:00",
 				"url": "https://myles.life/2020/05/09/awesome-sky-over.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/05/02/social-distancing-from.html",
@@ -232,7 +249,7 @@
 				"content_text": "Social distancing from the cherry blossoms. \n\n<a href=\"https://myles.life/uploads/2020/e419dcc8bb.jpg\"><img src=\"uploads/2020/e419dcc8bb.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-05-02T15:37:52-04:00",
 				"url": "https://myles.life/2020/05/02/social-distancing-from.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/04/27/the-tree-outside.html",
@@ -241,7 +258,7 @@
 				"content_text": "The tree outside my apartment is finally growing some buds!\n\n<a href=\"https://myles.life/uploads/2020/6edc22da3c.jpg\"><img src=\"uploads/2020/6edc22da3c.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-04-27T15:39:30-04:00",
 				"url": "https://myles.life/2020/04/27/the-tree-outside.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/04/26/harley-quinn.html",
@@ -250,7 +267,7 @@
 				"content_text": "📺 Harley Quinn\n\n<img src=\"uploads/2020/de51551379.jpg\" width=\"400\" height=\"600\" alt=\"Harley Quinn Poster\" />\n",
 				"date_published": "2020-04-26T11:52:43-04:00",
 				"url": "https://myles.life/2020/04/26/harley-quinn.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/04/25/endless-summer.html",
@@ -268,7 +285,7 @@
 				"content_text": "Making some cookies. \n\n<a href=\"https://myles.life/uploads/2020/751c7cd0ef.jpg\"><img src=\"uploads/2020/751c7cd0ef.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-04-25T15:36:27-04:00",
 				"url": "https://myles.life/2020/04/25/making-some-cookies.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/04/23/i-just-spent.html",
@@ -286,7 +303,7 @@
 				"content_text": "Under the Gardiner. \n\n<img src=\"uploads/2020/ee6536da1d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-18T13:14:18-04:00",
 				"url": "https://myles.life/2020/04/18/under-the-gardiner.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/03/22/going-for-a.html",
@@ -295,7 +312,7 @@
 				"content_text": "Going for a walk to the place I’ve been everyday this week. \n\n<a href=\"https://myles.life/uploads/2020/d04b3eecbb.jpg\"><img src=\"uploads/2020/d04b3eecbb.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-03-22T14:04:05-04:00",
 				"url": "https://myles.life/2020/03/22/going-for-a.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/03/20/ive-never-seen.html",
@@ -304,7 +321,7 @@
 				"content_text": "I’ve never seen graffiti alley with no tourists. \n\n<a href=\"https://myles.life/uploads/2020/f8b82f7923.jpg\"><img src=\"uploads/2020/f8b82f7923.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-03-20T13:03:52-04:00",
 				"url": "https://myles.life/2020/03/20/ive-never-seen.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/03/14/quiet-day-at.html",
@@ -313,7 +330,7 @@
 				"content_text": "Quiet day at the farm. \n\n<a href=\"https://myles.life/uploads/2020/ca5c838d06.jpg\"><img src=\"uploads/2020/ca5c838d06.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/7e53338a86.jpg\"><img src=\"uploads/2020/7e53338a86.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-03-14T18:46:47-04:00",
 				"url": "https://myles.life/2020/03/14/quiet-day-at.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/03/09/mythic-quest-is.html",
@@ -363,7 +380,7 @@
 				"content_text": "\n\n<a href=\"https://myles.life/uploads/2020/00351a1c87.jpg\"><img src=\"uploads/2020/00351a1c87.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/7713ee9263.jpg\"><img src=\"uploads/2020/7713ee9263.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/6d9b2ffcb5.jpg\"><img src=\"uploads/2020/6d9b2ffcb5.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/169933ea08.jpg\"><img src=\"uploads/2020/169933ea08.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/2abd06fa67.jpg\"><img src=\"uploads/2020/2abd06fa67.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/61bf394b36.jpg\"><img src=\"uploads/2020/61bf394b36.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/f63de468f1.jpg\"><img src=\"uploads/2020/f63de468f1.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/9e57d8e7e1.jpg\"><img src=\"uploads/2020/9e57d8e7e1.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/af98028849.jpg\"><img src=\"uploads/2020/af98028849.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/db10eeca46.jpg\"><img src=\"uploads/2020/db10eeca46.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/01c6e36aba.jpg\"><img src=\"uploads/2020/01c6e36aba.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/8b88e54407.jpg\"><img src=\"uploads/2020/8b88e54407.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/e8edde7e63.jpg\"><img src=\"uploads/2020/e8edde7e63.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-09T19:26:23-04:00",
 				"url": "https://myles.life/2020/02/09/winter-lights-at.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/02/09/forgotten-context-message.html",
@@ -372,7 +389,7 @@
 				"content_text": "Forgotten context message.\n\n<img src=\"uploads/2020/b66d31d7df.jpg\" width=\"600\" height=\"354\" alt=\"Facebook mesaage between me and my friend. \" />\n",
 				"date_published": "2020-02-09T18:03:37-04:00",
 				"url": "https://myles.life/2020/02/09/forgotten-context-message.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/02/03/im-going-to.html",
@@ -390,7 +407,7 @@
 				"content_text": "Sometimes laziness is pretty cool. \n\n<img src=\"uploads/2020/9ffee02009.jpg\" width=\"600\" height=\"599\" alt=\"Pavment bricks at Ontario Place put back in a strange way.\" />\n",
 				"date_published": "2020-02-01T15:49:46-04:00",
 				"url": "https://myles.life/2020/02/01/sometimes-laziness-is.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/01/29/stephen-childs-talking.html",
@@ -399,7 +416,7 @@
 				"content_text": "Stephen Childs talking at PyLaides/PyData Toronto meetup. \n\n<a href=\"https://myles.life/uploads/2020/79d4d690b5.jpg\"><img src=\"uploads/2020/79d4d690b5.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-01-29T19:40:41-04:00",
 				"url": "https://myles.life/2020/01/29/stephen-childs-talking.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/01/28/wolf-parades-new.html",
@@ -408,7 +425,7 @@
 				"content_text": "🎵 Wolf Parade’s new album **Thin Mind** is pretty awesome but sounds like early 2000s.\n\n<img src=\"uploads/2020/f0075be529.jpg\" width=\"600\" height=\"600\" alt=\"Thin Mind by Wolf Parade Album Art\" />\n",
 				"date_published": "2020-01-28T11:11:00-04:00",
 				"url": "https://myles.life/2020/01/28/wolf-parades-new.html",
-				"tags": ["Music"]
+				"tags": [" Music"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/01/10/i-broke-my.html",
@@ -425,7 +442,7 @@
 				"content_text": "🎥 I haven't seen _Cats_ yet but I'm pretty sure Disney's live action **Aladdin** was the worst film of last year. \n",
 				"date_published": "2020-01-08T22:54:00-04:00",
 				"url": "https://myles.life/2020/01/08/i-havent-seen.html",
-				"tags": ["Movies"]
+				"tags": [" Movies"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/01/03/great-last-day.html",
@@ -434,7 +451,7 @@
 				"content_text": "Great last day of skiing in Sun Peaks. \n\n<a href=\"https://myles.life/uploads/2020/af3741bcd8.jpg\"><img src=\"uploads/2020/af3741bcd8.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2020/01fe54412d.jpg\"><img src=\"uploads/2020/01fe54412d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-01-03T19:25:03-04:00",
 				"url": "https://myles.life/2020/01/03/great-last-day.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/01/02/great-day-skiing.html",
@@ -443,7 +460,7 @@
 				"content_text": "Great day skiing at Sun Peaks today. \n\n<a href=\"https://myles.life/uploads/2020/567c9de816.jpg\"><img src=\"uploads/2020/567c9de816.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-01-02T19:45:02-04:00",
 				"url": "https://myles.life/2020/01/02/great-day-skiing.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/01/02/when-you-move.html",
@@ -452,7 +469,7 @@
 				"content_text": "When you move from an email based company to one that uses Slack. \n\n<a href=\"https://myles.life/uploads/2020/2829c34de8.jpg\"><img src=\"uploads/2020/2829c34de8.jpg\" width=\"600\" height=\"379\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-01-02T13:06:30-04:00",
 				"url": "https://myles.life/2020/01/02/when-you-move.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/01/01/to-do-list.html",
@@ -469,7 +486,7 @@
 				"content_text": "Fireworks from last nights new year's party. \n\n<video src=\"https://myles.life/uploads/2020/34ace8f236.mov\" controls=\"controls\" playsinline=\"playsinline\" width=\"600\" height=\"337\" alt=\"\" poster=\"https://myles.life/uploads/2020/b551c7bd01.png\"></video>\n\n",
 				"date_published": "2020-01-01T13:08:00-04:00",
 				"url": "https://myles.life/2020/01/01/fireworks-from-last.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/12/31/night-time.html",
@@ -478,7 +495,7 @@
 				"content_text": "Night time. \n\n<a href=\"https://myles.life/uploads/2020/f46c19bfd8.jpg\"><img src=\"uploads/2020/f46c19bfd8.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-01-01T00:00:16-04:00",
 				"url": "https://myles.life/2019/12/31/night-time.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/12/29/mountains-in-sun.html",
@@ -487,7 +504,7 @@
 				"content_text": "Mountains in Sun Peaks.\n\n<a href=\"https://myles.life/uploads/2019/c53809092d.jpg\"><img src=\"uploads/2019/c53809092d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/72467b1748.jpg\"><img src=\"uploads/2019/72467b1748.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-12-29T19:05:00-04:00",
 				"url": "https://myles.life/2019/12/29/mountains-in-sun.html",
-				"tags": ["Photography","Skiing  Snowboarding"]
+				"tags": [" Photography","Skiing  Snowboarding"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/12/27/todays-skiing-at.html",
@@ -496,7 +513,7 @@
 				"content_text": "Today’s skiing at Sun Peaks. \n\n<a href=\"https://myles.life/uploads/2019/99c05f9ed9.jpg\"><img src=\"uploads/2019/99c05f9ed9.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-12-27T19:47:00-04:00",
 				"url": "https://myles.life/2019/12/27/todays-skiing-at.html",
-				"tags": ["Photography","Skiing  Snowboarding"]
+				"tags": [" Photography","Skiing  Snowboarding"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/12/26/arrived-on-kanloops.html",
@@ -505,7 +522,7 @@
 				"content_text": "Arrived on Kanloops on the way to Sun Peaks. \n\n<a href=\"https://myles.life/uploads/2019/8cb2631385.jpg\"><img src=\"uploads/2019/8cb2631385.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-12-26T17:03:49-04:00",
 				"url": "https://myles.life/2019/12/26/arrived-on-kanloops.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/12/26/current-status-calgary.html",
@@ -514,7 +531,7 @@
 				"content_text": "Current Status: Calgary \n\n<a href=\"https://myles.life/uploads/2019/45fa6deb06.jpg\"><img src=\"uploads/2019/45fa6deb06.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-12-26T14:30:54-04:00",
 				"url": "https://myles.life/2019/12/26/current-status-calgary.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/12/14/paper-plane-at.html",
@@ -523,7 +540,7 @@
 				"content_text": "Paper Plane at Il Gatto Nero. \n\n<a href=\"https://myles.life/uploads/2019/23c0146796.jpg\"><img src=\"uploads/2019/23c0146796.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/46763dfa7b.jpg\"><img src=\"uploads/2019/46763dfa7b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-12-14T20:13:54-04:00",
 				"url": "https://myles.life/2019/12/14/paper-plane-at.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/12/12/selena-presenting-on.html",
@@ -532,7 +549,7 @@
 				"content_text": "Selena presenting on writing a programming language with Python at tonight’s PyLadies/PyDataTO. \n\n<a href=\"https://myles.life/uploads/2019/b5fca5c792.jpg\"><img src=\"uploads/2019/b5fca5c792.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-12-12T20:30:27-04:00",
 				"url": "https://myles.life/2019/12/12/selena-presenting-on.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/12/07/toronto-waterfront.html",
@@ -541,7 +558,7 @@
 				"content_text": "Toronto Waterfront. \n\n<a href=\"https://myles.life/uploads/2019/37e2f3b9f8.jpg\"><img src=\"uploads/2019/37e2f3b9f8.jpg\" width=\"600\" height=\"227\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-12-07T16:26:33-04:00",
 				"url": "https://myles.life/2019/12/07/toronto-waterfront.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/12/05/ive-recently-switched.html",
@@ -558,7 +575,7 @@
 				"content_text": "It’s a very snowy day in Toronto. \n\n<a href=\"https://myles.life/uploads/2019/4c27460652.jpg\"><img src=\"uploads/2019/4c27460652.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-12-01T14:51:05-04:00",
 				"url": "https://myles.life/2019/12/01/its-a-very.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/11/17/peter-mccormick-talking.html",
@@ -575,7 +592,7 @@
 				"content_text": "Watching Françoise Provencher Keynote from the upper balcony. \n\n<a href=\"https://myles.life/uploads/2019/1940ed917b.jpg\"><img src=\"uploads/2019/1940ed917b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-11-17T11:03:58-04:00",
 				"url": "https://myles.life/2019/11/17/watching-franoise-provencher.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/11/12/photos-from-tonights.html",
@@ -584,7 +601,7 @@
 				"content_text": "Photos from tonight’s [GoTO](https://www.meetup.com/go-toronto/).\n\n<a href=\"https://myles.life/uploads/2019/444f333c13.jpg\"><img src=\"uploads/2019/444f333c13.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/37ca1f00ce.jpg\"><img src=\"uploads/2019/37ca1f00ce.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/029d98e166.jpg\"><img src=\"uploads/2019/029d98e166.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-11-12T22:04:00-04:00",
 				"url": "https://myles.life/2019/11/12/photos-from-tonights.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/11/12/green-trees-with.html",
@@ -593,7 +610,7 @@
 				"content_text": "Green trees with snow look really sad. \n\n<a href=\"https://myles.life/uploads/2019/f603d75259.jpg\"><img src=\"uploads/2019/f603d75259.jpg\" width=\"600\" height=\"450\" alt=\"The trees outside my apartment are covered in snow. \" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-11-12T08:23:29-04:00",
 				"url": "https://myles.life/2019/11/12/green-trees-with.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/11/11/im-going-to.html",
@@ -611,7 +628,7 @@
 				"content_text": "Went for a hike in the forest by the [McMichael Canadian Art Gallery](http://mcmichael.com/) today. \n\n<img src=\"uploads/2019/f3853c3b96.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2019/e1e2f3a9fb.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2019/58d66e4b08.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2019/97e17e6448.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2019/3b91478b95.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-11-09T19:38:22-04:00",
 				"url": "https://myles.life/2019/11/09/went-for-a.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/11/09/leaving-to-go.html",
@@ -620,7 +637,7 @@
 				"content_text": "Leaving to go up north for the weekend, except a lot of photos for trees and stuff. \n\n<a href=\"https://myles.life/uploads/2019/911ef4c1eb.jpg\"><img src=\"uploads/2019/911ef4c1eb.jpg\" width=\"600\" height=\"450\" alt=\"Track 10/11 at Union Station, Toronto, Ontario, Canada.\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-11-09T12:44:20-04:00",
 				"url": "https://myles.life/2019/11/09/leaving-to-go.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/11/05/skate-city-for.html",
@@ -629,7 +646,7 @@
 				"content_text": "[Skate City](https://apps.apple.com/ca/app/skate-city/id1182476302) for iOS is really awesome. \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://myles.life/uploads/2019/c316dcaace.mov\" width=\"816\" height=\"384\" poster=\"https://myles.life/uploads/2019/35d2a5b181.png\" preload=\"none\"></video>\n",
 				"date_published": "2019-11-05T10:45:42-04:00",
 				"url": "https://myles.life/2019/11/05/skate-city-for.html",
-				"tags": ["Video Games"]
+				"tags": [" Video Games"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/11/03/my-new-normal.html",
@@ -638,7 +655,7 @@
 				"content_text": "My new normal week. \n\n<a href=\"https://myles.life/uploads/2019/d4abcacba6.jpg\"><img src=\"uploads/2019/d4abcacba6.jpg\" width=\"277\" height=\"600\" alt=\"A map of Downtown Toronto eith tracks of where I&apos;ve been this week. \" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-11-03T15:40:02-04:00",
 				"url": "https://myles.life/2019/11/03/my-new-normal.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/10/27/uoft-in-the.html",
@@ -647,7 +664,7 @@
 				"content_text": "UofT in the autumn is awesome. \n\n<a href=\"https://myles.life/uploads/2019/ddd728744a.jpg\"><img src=\"uploads/2019/ddd728744a.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-27T11:51:50-04:00",
 				"url": "https://myles.life/2019/10/27/uoft-in-the.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/10/22/pair-programming-with.html",
@@ -656,7 +673,7 @@
 				"content_text": "Pair programming with a skeleton today. \n\n<a href=\"https://myles.life/uploads/2019/9a568017d4.jpg\"><img src=\"uploads/2019/9a568017d4.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-22T10:26:44-04:00",
 				"url": "https://myles.life/2019/10/22/pair-programming-with.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/10/19/i-like-the.html",
@@ -665,7 +682,7 @@
 				"content_text": "I like the way this bridge lights up at night. \n\n<a href=\"https://myles.life/uploads/2019/885882aaed.jpg\"><img src=\"uploads/2019/885882aaed.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-19T22:51:19-04:00",
 				"url": "https://myles.life/2019/10/19/i-like-the.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/10/19/one-of-my.html",
@@ -674,7 +691,7 @@
 				"content_text": "😍 One of my plant’s are flowering.\n\n<a href=\"https://myles.life/uploads/2019/e341155d46.jpg\"><img src=\"uploads/2019/e341155d46.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-19T11:40:31-04:00",
 				"url": "https://myles.life/2019/10/19/one-of-my.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/10/14/software-development-and.html",
@@ -692,7 +709,7 @@
 				"content_text": "Inglis Falls. \n\n<a href=\"https://myles.life/uploads/2019/df4f1474fc.jpg\"><img src=\"uploads/2019/df4f1474fc.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/7ed06f813a.jpg\"><img src=\"uploads/2019/7ed06f813a.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-13T13:21:34-04:00",
 				"url": "https://myles.life/2019/10/13/inglis-falls.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/10/13/sitting-on-the.html",
@@ -701,7 +718,7 @@
 				"content_text": "Sitting on the front porch at the farm. \n\n<a href=\"https://myles.life/uploads/2019/af42313a1b.jpg\"><img src=\"uploads/2019/af42313a1b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-13T10:38:16-04:00",
 				"url": "https://myles.life/2019/10/13/sitting-on-the.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/10/12/bruce-trail-in.html",
@@ -710,7 +727,7 @@
 				"content_text": "Went for a hike in **The Glen** conservation today. \n\n<a href=\"https://myles.life/uploads/2019/d36e5c23b0.jpg\"><img src=\"uploads/2019/d36e5c23b0.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/174d2b0b4e.jpg\"><img src=\"uploads/2019/174d2b0b4e.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/0c1c0df9ad.jpg\"><img src=\"uploads/2019/0c1c0df9ad.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/c2b0bde5b7.jpg\"><img src=\"uploads/2019/c2b0bde5b7.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/cae46fd7fb.jpg\"><img src=\"uploads/2019/cae46fd7fb.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/5a1bd38a0a.jpg\"><img src=\"uploads/2019/5a1bd38a0a.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/1fba6717db.jpg\"><img src=\"uploads/2019/1fba6717db.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-12T14:50:06-04:00",
 				"url": "https://myles.life/2019/10/12/bruce-trail-in.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/10/11/driving-up-north.html",
@@ -719,7 +736,7 @@
 				"content_text": "Driving up north for thanksgiving. \n\n<a href=\"https://myles.life/uploads/2019/b5792204e3.jpg\"><img src=\"uploads/2019/b5792204e3.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-11T20:50:45-04:00",
 				"url": "https://myles.life/2019/10/11/driving-up-north.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/10/10/kind-of-failed.html",
@@ -728,7 +745,7 @@
 				"content_text": "Kind of failed on the foam for my latte today. \n\n<a href=\"https://myles.life/uploads/2019/8df1ccc7af.jpg\"><img src=\"uploads/2019/8df1ccc7af.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-10T13:08:47-04:00",
 				"url": "https://myles.life/2019/10/10/kind-of-failed.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/10/06/photos-from-nuit.html",
@@ -737,7 +754,7 @@
 				"content_text": "Photos from last night's Nuit Blanche exhibited in Fort York, Stacks, and 401 Richmond.\n\n<a href=\"https://myles.life/uploads/2019/16447ab779.jpg\"><img src=\"uploads/2019/16447ab779.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/5abb2cc47d.jpg\"><img src=\"uploads/2019/5abb2cc47d.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/b06543517b.jpg\"><img src=\"uploads/2019/b06543517b.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/e334f44606.jpg\"><img src=\"uploads/2019/e334f44606.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/f277e613b4.jpg\"><img src=\"uploads/2019/f277e613b4.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/d0e716d17a.jpg\"><img src=\"uploads/2019/d0e716d17a.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/c2a9d10885.jpg\"><img src=\"uploads/2019/c2a9d10885.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/09d2eec402.jpg\"><img src=\"uploads/2019/09d2eec402.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/33271323a2.jpg\"><img src=\"uploads/2019/33271323a2.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/68c6fae44f.jpg\"><img src=\"uploads/2019/68c6fae44f.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-06T12:45:55-04:00",
 				"url": "https://myles.life/2019/10/06/photos-from-nuit.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/10/04/a-nuit-blanche.html",
@@ -746,7 +763,7 @@
 				"content_text": "A Nuit Blanche exhibit is going up.\n\n<a href=\"https://myles.life/uploads/2019/8e8ddb1697.jpg\"><img src=\"uploads/2019/8e8ddb1697.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-04T20:44:14-04:00",
 				"url": "https://myles.life/2019/10/04/a-nuit-blanche.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/10/02/its-a-really.html",
@@ -755,7 +772,7 @@
 				"content_text": "It’s a really gloomy day in Toronto. \n\n<a href=\"https://myles.life/uploads/2019/ebe630b04d.jpg\"><img src=\"uploads/2019/ebe630b04d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-02T14:05:15-04:00",
 				"url": "https://myles.life/2019/10/02/its-a-really.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/09/28/a-love-letter.html",
@@ -773,7 +790,7 @@
 				"content_text": "Cool street art near King Street West and Portland. \n\n<a href=\"https://myles.life/uploads/2019/e910c5ec90.jpg\"><img src=\"uploads/2019/e910c5ec90.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-28T20:02:04-04:00",
 				"url": "https://myles.life/2019/09/28/cool-street-art.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/09/28/rainy-day-at.html",
@@ -782,7 +799,7 @@
 				"content_text": "Rainy day at  Ontario Place.\n\n<a href=\"https://myles.life/uploads/2019/f5a82e1917.jpg\"><img src=\"uploads/2019/f5a82e1917.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/069858594c.jpg\"><img src=\"uploads/2019/069858594c.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-28T17:56:46-04:00",
 				"url": "https://myles.life/2019/09/28/rainy-day-at.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/09/26/finally-my-stress.html",
@@ -791,7 +808,7 @@
 				"content_text": "😜 finally my stress level is better than a D-.\n\n<a href=\"https://myles.life/uploads/2019/27c52aeec2.jpg\"><img src=\"uploads/2019/27c52aeec2.jpg\" width=\"463\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-26T15:00:53-04:00",
 				"url": "https://myles.life/2019/09/26/finally-my-stress.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/09/24/got-my-first.html",
@@ -808,7 +825,7 @@
 				"content_text": "First day at new job!\n\n<a href=\"https://myles.life/uploads/2019/9a44129f13.jpg\"><img src=\"uploads/2019/9a44129f13.jpg\" width=\"450\" height=\"600\" alt=\"A Lego figure. \" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-16T19:31:00-04:00",
 				"url": "https://myles.life/2019/09/16/first-day-a.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/09/13/last-day-at.html",
@@ -825,7 +842,7 @@
 				"content_text": "I’m going to miss Winston Woods Park near my office. \n\n<a href=\"https://myles.life/uploads/2019/1aa78a346f.jpg\"><img src=\"uploads/2019/1aa78a346f.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/646c197f1b.jpg\"><img src=\"uploads/2019/646c197f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-11T12:41:00-04:00",
 				"url": "https://myles.life/2019/09/11/im-going-to.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/09/11/took-the-wrong.html",
@@ -834,7 +851,7 @@
 				"content_text": "Took the wrong train this morning and now I’m in Appleby (two stops west of Oakville). \n\n<a href=\"https://myles.life/uploads/2019/4f9cbbee83.jpg\"><img src=\"uploads/2019/4f9cbbee83.jpg\" width=\"600\" height=\"450\" alt=\"Appleby Train Station.\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-11T08:28:09-04:00",
 				"url": "https://myles.life/2019/09/11/took-the-wrong.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/09/07/living-near-the.html",
@@ -843,7 +860,7 @@
 				"content_text": "Living near the lake is awesome!\n\n<a href=\"https://myles.life/uploads/2019/2292063f70.jpg\"><img src=\"uploads/2019/2292063f70.jpg\" width=\"600\" height=\"253\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-07T11:04:28-04:00",
 				"url": "https://myles.life/2019/09/07/living-near-the.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/09/06/ann-powers-review.html",
@@ -852,7 +869,7 @@
 				"content_text": "🎵 Ann Power’s review of [Lana Del Rey’s new album, Norman Fucking Rockwell!](https://www.npr.org/2019/09/04/757545360/lana-del-rey-lives-in-americas-messy-subconscious \"Lana Del Rey Lives In America's Messy Subconscious\"), is an awesome read.\n",
 				"date_published": "2019-09-06T08:53:00-04:00",
 				"url": "https://myles.life/2019/09/06/ann-powers-review.html",
-				"tags": ["Music"]
+				"tags": [" Music"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/09/06/for-the-second.html",
@@ -861,7 +878,7 @@
 				"content_text": "😬 For the second time in two weeks, I’m going to be 30 minutes late for work.\n\n<a href=\"https://myles.life/uploads/2019/81dc73e990.jpg\"><img src=\"uploads/2019/81dc73e990.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-06T08:30:08-04:00",
 				"url": "https://myles.life/2019/09/06/for-the-second.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/09/06/go-train-stoped.html",
@@ -870,7 +887,7 @@
 				"content_text": "Go Train stoped across from _Gestusra Island_ on the Credit River. \n\n<a href=\"https://myles.life/uploads/2019/ae35c1a73e.jpg\"><img src=\"uploads/2019/ae35c1a73e.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-06T07:57:21-04:00",
 				"url": "https://myles.life/2019/09/06/go-train-stoped.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/09/05/had-an-awesome.html",
@@ -879,7 +896,7 @@
 				"content_text": "Had an awesome cocktail tonight at Petty Cash, an _Abraham Drinkin’_, with gin, lime, cucumber, and basil.\n\n<a href=\"https://myles.life/uploads/2019/1741e30058.jpg\"><img src=\"uploads/2019/1741e30058.jpg\" width=\"600\" height=\"600\" alt=\"Abraham Drinkin&apos; at Petty Cash\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/b223ced439.jpg\"><img src=\"uploads/2019/b223ced439.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-05T21:07:55-04:00",
 				"url": "https://myles.life/2019/09/05/had-an-awesome.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/09/04/finally-finished-my.html",
@@ -888,7 +905,7 @@
 				"content_text": "📓 Finally finished my September’s Log!\n\n<a href=\"https://myles.life/uploads/2019/5a39dd4a37.jpg\"><img src=\"uploads/2019/5a39dd4a37.jpg\" width=\"600\" height=\"449\" alt=\"My Bullet Journal's Monthly Log for September 2019. \" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-04T14:13:00-04:00",
 				"url": "https://myles.life/2019/09/04/finally-finished-my.html",
-				"tags": ["Photography","Bullet Journal"]
+				"tags": [" Photography","Bullet Journal"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/31/from-a-hike.html",
@@ -897,7 +914,7 @@
 				"content_text": "From a hike in the **The Glen** (~15mins outside of Owen Sound).\n\n<a href=\"https://myles.life/uploads/2019/72b5397f0c.jpg\"><img src=\"uploads/2019/72b5397f0c.jpg\" width=\"600\" height=\"233\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-31T17:48:10-04:00",
 				"url": "https://myles.life/2019/08/31/from-a-hike.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/30/field-of-alfalfa.html",
@@ -906,7 +923,7 @@
 				"content_text": "Field of alfalfa at sunset. \n\n<a href=\"https://myles.life/uploads/2019/3839e5c4ec.jpg\"><img src=\"uploads/2019/3839e5c4ec.jpg\" width=\"600\" height=\"242\" alt=\"Felid at Sunset. \" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-30T19:56:35-04:00",
 				"url": "https://myles.life/2019/08/30/field-of-alfalfa.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/30/photos-from-a.html",
@@ -915,7 +932,7 @@
 				"content_text": "Photos from a hike on the top of the escarpment near Blue Mountain. \n\n<a href=\"https://myles.life/uploads/2019/83b61be2a4.jpg\"><img src=\"uploads/2019/83b61be2a4.jpg\" width=\"600\" height=\"450\" alt=\"A no treaspassing sign. \" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/37dfa85491.jpg\"><img src=\"uploads/2019/37dfa85491.jpg\" width=\"600\" height=\"450\" alt=\"The souther part of Georgen Bay. \" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/b6e19ad1d8.jpg\"><img src=\"uploads/2019/b6e19ad1d8.jpg\" width=\"600\" height=\"450\" alt=\"Chairlift in the summer. \" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/a28358271e.jpg\"><img src=\"uploads/2019/a28358271e.jpg\" width=\"600\" height=\"450\" alt=\"A spider in a race gate. \" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-30T13:43:45-04:00",
 				"url": "https://myles.life/2019/08/30/photos-from-a.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/28/at-the-farm.html",
@@ -924,7 +941,7 @@
 				"content_text": "At the farm. \n\n<a href=\"https://myles.life/uploads/2019/438d47033b.jpg\"><img src=\"uploads/2019/438d47033b.jpg\" width=\"600\" height=\"450\" alt=\"Farm fields. \" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-28T19:36:22-04:00",
 				"url": "https://myles.life/2019/08/28/at-the-farm.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/27/had-margaritas-last.html",
@@ -933,7 +950,7 @@
 				"content_text": "Had margaritas last night.\n\n<a href=\"https://myles.life/uploads/2019/d9c7e3a20b.jpg\"><img src=\"uploads/2019/d9c7e3a20b.jpg\" width=\"600\" height=\"450\" alt=\"A margarita.\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-27T10:53:54-04:00",
 				"url": "https://myles.life/2019/08/27/had-margaritas-last.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/25/just-finished-my.html",
@@ -942,7 +959,7 @@
 				"content_text": "Just finished my _Weekly Log_!\n\n<a href=\"https://myles.life/uploads/2019/3c4855521a.jpg\"><img src=\"uploads/2019/3c4855521a.jpg\" width=\"600\" height=\"449\" alt=\"Bullet Journal Weekly Log\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-25T16:10:00-04:00",
 				"url": "https://myles.life/2019/08/25/just-finished-my.html",
-				"tags": ["Photography","Bullet Journal"]
+				"tags": [" Photography","Bullet Journal"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/24/pictures-from-walking.html",
@@ -951,7 +968,7 @@
 				"content_text": "Pictures from walking to Parkdale last night. #Latergram\n\n<a href=\"https://myles.life/uploads/2019/f01f47e136.jpg\"><img src=\"uploads/2019/f01f47e136.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/9855ff6688.jpg\"><img src=\"uploads/2019/9855ff6688.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/184ff773af.jpg\"><img src=\"uploads/2019/184ff773af.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-24T11:55:03-04:00",
 				"url": "https://myles.life/2019/08/24/pictures-from-walking.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/21/back-on-the.html",
@@ -960,7 +977,7 @@
 				"content_text": "Back in the suburbs. \n\n<a href=\"https://myles.life/uploads/2019/564a4acff0.jpg\"><img src=\"uploads/2019/564a4acff0.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-21T19:19:00-04:00",
 				"url": "https://myles.life/2019/08/21/back-on-the.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/20/im-excited-to.html",
@@ -978,7 +995,7 @@
 				"content_text": "🎧 Lana Del Rey cover of Donovan's [Season of the Witch](https://www.youtube.com/watch?v=zA4OjrpVsiY) is awesome.\n",
 				"date_published": "2019-08-21T10:26:00-04:00",
 				"url": "https://myles.life/2019/08/21/lana-del-rey.html",
-				"tags": ["Music"]
+				"tags": [" Music"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/20/hasan-minhaj-on.html",
@@ -1003,7 +1020,7 @@
 				"content_text": "Stuck at _Long Branch GO Station_ 🙄. \n\n<a href=\"https://myles.life/uploads/2019/6fbb05fcf1.jpg\"><img src=\"uploads/2019/6fbb05fcf1.jpg\" width=\"600\" height=\"450\" alt=\"Long Branch GO Station\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/daeba996b7.jpg\"><img src=\"uploads/2019/daeba996b7.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-19T18:36:44-04:00",
 				"url": "https://myles.life/2019/08/19/stuck-at-long.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/19/apple-spends-more.html",
@@ -1039,7 +1056,7 @@
 				"content_text": "My fortune cookie at _Mother’s Dumplings_ today.\n\n<a href=\"https://myles.life/uploads/2019/29b1346e69.jpg\"><img src=\"uploads/2019/29b1346e69.jpg\" width=\"600\" height=\"600\" alt=\"Fortune cookie with, &quot;you are doing the right thing.&quot;\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/0a4b3d536b.jpg\"><img src=\"uploads/2019/0a4b3d536b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-18T20:10:24-04:00",
 				"url": "https://myles.life/2019/08/18/my-fortune-cookie.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/18/datadriven-design-is.html",
@@ -1056,7 +1073,7 @@
 				"content_text": "[Ugly Gerry](https://uglygerry.com/) is a font created by US congressional districts.\n\n<img src=\"uploads/2019/e8be3c20d7.jpg\" width=\"513\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-16T12:46:55-04:00",
 				"url": "https://myles.life/2019/08/16/ugly-gerry-is.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/16/amazon-is-using.html",
@@ -1092,7 +1109,7 @@
 				"content_text": "Currently reading _Draplin Design Co. Pretty Much Everything_ by Aaron James Draplin. This page is probably the most useful advice every, **Vectors Are Free**!\n\n<a href=\"https://myles.life/uploads/2019/4af442e320.jpg\"><img src=\"uploads/2019/4af442e320.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-13T13:44:04-04:00",
 				"url": "https://myles.life/2019/08/13/currently-reading-draplin.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/13/listening-to-tooth.html",
@@ -1101,7 +1118,7 @@
 				"content_text": "Listening to **Tooth and Tail**’s soundtrack by **Austin Wintory** gives my chores pomp and circumstance.\n",
 				"date_published": "2019-08-13T12:58:59-04:00",
 				"url": "https://myles.life/2019/08/13/listening-to-tooth.html",
-				"tags": ["Music"]
+				"tags": [" Music"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/12/ill-be-attending.html",
@@ -1119,7 +1136,7 @@
 				"content_text": "Sitting in a park in Port Perry. \n\n<a href=\"https://myles.life/uploads/2019/57c9037470.jpg\"><img src=\"uploads/2019/57c9037470.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-11T13:38:28-04:00",
 				"url": "https://myles.life/2019/08/11/sitting-in-a.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/10/i-summer-in.html",
@@ -1128,7 +1145,7 @@
 				"content_text": "I ♥️ summer in Toronto. \n\n<a href=\"https://myles.life/uploads/2019/9fe5198f12.jpg\"><img src=\"uploads/2019/9fe5198f12.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.life/uploads/2019/31b947d971.jpg\"><img src=\"uploads/2019/31b947d971.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-10T11:46:00-04:00",
 				"url": "https://myles.life/2019/08/10/i-summer-in.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/10/thinknum-a-dataset.html",
@@ -1155,7 +1172,7 @@
 				"content_text": "Waiting to go home from Oakville. \n\n<a href=\"https://myles.life/uploads/2019/f852a0174d.jpg\"><img src=\"uploads/2019/f852a0174d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-06T20:18:00-04:00",
 				"url": "https://myles.life/2019/08/06/waiting-to-go.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/04/outside-is-awesome.html",
@@ -1164,7 +1181,7 @@
 				"content_text": "Outside is awesome today!\n\n<a href=\"https://myles.life/uploads/2019/82d3ba0ec9.jpg\"><img src=\"uploads/2019/82d3ba0ec9.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-04T13:43:00-04:00",
 				"url": "https://myles.life/2019/08/04/outside-is-awesome.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/03/hobb-shaw-was.html",
@@ -1173,7 +1190,7 @@
 				"content_text": "🎥  [Hobbs & Shaw](https://www.youtube.com/watch?v=HZ7PAyCDwEg \"Fast & Furious Presents: Hobbs & Shaw Trailer\") was really good. \n",
 				"date_published": "2019-08-03T22:29:00-04:00",
 				"url": "https://myles.life/2019/08/03/hobb-shaw-was.html",
-				"tags": ["Movies"]
+				"tags": [" Movies"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/08/01/chance-the-rapper.html",
@@ -1182,16 +1199,16 @@
 				"content_text": "🎵 Chance the Rapper new album [The Big Day](https://ditto.fm/bigday) is awesome.\n",
 				"date_published": "2019-08-01T19:07:00-04:00",
 				"url": "https://myles.life/2019/08/01/chance-the-rapper.html",
-				"tags": ["Music"]
+				"tags": [" Music"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/07/30/to-create-a.html",
 				"title": "Lovebot Graffiti in Toronto",
-				"content_html": "<blockquote><p>“To create a better future we must create love within our lives now we have the tools to create love. This is love for not just some of us but for all people. This is love not just in our time, but for all time.”</p> <p><cite>— Lovebot</cite></p></blockquote>\n\n<p><a href=\"http://myles.micro.blog/uploads/2019/f50ddd7e8c.jpg\"><img src=\"uploads/2019/f50ddd7e8c.jpg\" width=\"600\" height=\"450\" alt=\"Lovebot Graffiti\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "<blockquote><p>“To create a better future we must create love within our lives now we have the tools to create love. This is love for not just some of us but for all people. This is love not just in our time, but for all time.”</p> <p><cite>— Lovebot</cite></p></blockquote>\n\n<a href=\"http://myles.micro.blog/uploads/2019/f50ddd7e8c.jpg\"><img src=\"uploads/2019/f50ddd7e8c.jpg\" width=\"600\" height=\"450\" alt=\"Lovebot Graffiti\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n",
+				"content_html": "<blockquote><p>“To create a better future we must create love within our lives now we have the tools to create love. This is love for not just some of us but for all people. This is love not just in our time, but for all time.”</p> <p><cite>— Lovebot</cite></p></blockquote>\n\n<p><a href=\"http://myles.life/uploads/2019/f50ddd7e8c.jpg\"><img src=\"uploads/2019/f50ddd7e8c.jpg\" width=\"600\" height=\"450\" alt=\"Lovebot Graffiti\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "<blockquote><p>“To create a better future we must create love within our lives now we have the tools to create love. This is love for not just some of us but for all people. This is love not just in our time, but for all time.”</p> <p><cite>— Lovebot</cite></p></blockquote>\n\n<a href=\"http://myles.life/uploads/2019/f50ddd7e8c.jpg\"><img src=\"uploads/2019/f50ddd7e8c.jpg\" width=\"600\" height=\"450\" alt=\"Lovebot Graffiti\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n",
 				"date_published": "2019-07-30T17:44:00-04:00",
 				"url": "https://myles.life/2019/07/30/to-create-a.html",
-				"tags": ["Photography"]
+				"tags": [" Photography"]
 			}
 	]
 }
