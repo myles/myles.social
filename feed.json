@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2021/01/27/snowy-street-in.html",
+				
+				"content_html": "<p>Snowy Street in Toronto</p>\n\n<p><img src=\"uploads/2021/ba439fa3e1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Snowy Street in Toronto\n\n<img src=\"uploads/2021/ba439fa3e1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-01-27T14:16:43-05:00",
+				"url": "https://myles.life/2021/01/27/snowy-street-in.html",
+				"tags": [" Photography"]
+			},
+			{
+				"id": "http://myles.micro.blog/2021/01/24/finished-reading-everything.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781594205712\">Everything I Never Told You</a> by Celeste Ng 📚</p>\n",
+				"content_text": "Finished reading: [Everything I Never Told You](https://micro.blog/books/9781594205712) by Celeste Ng 📚\n",
+				"date_published": "2021-01-24T23:36:00-05:00",
+				"url": "https://myles.life/2021/01/24/finished-reading-everything.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://myles.micro.blog/2021/01/23/photos-from-my.html",
 				
 				"content_html": "<p>Photos From My Walk</p>\n\n<p><img src=\"uploads/2021/b3bcb725f4.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/526176a6d6.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/ce4a00a6ed.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/c9b973f2b6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
@@ -231,8 +249,9 @@
 				
 				"content_html": "<p>I feel personally victimized by <em>mypy</em>.</p>\n",
 				"content_text": "I feel personally victimized by _mypy_.\n",
-				"date_published": "2020-05-19T12:24:04-05:00",
-				"url": "https://myles.life/2020/05/19/i-feel-personally.html"
+				"date_published": "2020-05-19T12:24:00-05:00",
+				"url": "https://myles.life/2020/05/19/i-feel-personally.html",
+				"tags": ["Programming"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/05/16/theyve-open-ontario.html",
@@ -371,8 +390,9 @@
 				
 				"content_html": "<p>I just spent the last 30 minutes trying to figure out why my tests weren’t failing. It turned out it was because I forgot to prepend <code>test_</code> to the function 🙃.</p>\n",
 				"content_text": "I just spent the last 30 minutes trying to figure out why my tests weren’t failing. It turned out it was because I forgot to prepend `test_` to the function 🙃.\n",
-				"date_published": "2020-02-21T11:49:10-05:00",
-				"url": "https://myles.life/2020/02/21/i-just-spent.html"
+				"date_published": "2020-02-21T11:49:00-05:00",
+				"url": "https://myles.life/2020/02/21/i-just-spent.html",
+				"tags": ["Programming"]
 			},
 			{
 				"id": "http://myles.micro.blog/2020/02/16/brazilian-nuts-are.html",
@@ -492,9 +512,9 @@
 			{
 				"id": "http://myles.micro.blog/2020/01/01/to-do-list.html",
 				"title": "2020 To Do List",
-				"content_html": "<p>These aren&rsquo;t really <em>resolutions</em>, they are just eight things I want to do in 2020:</p>\n\n<ol>\n<li><p><strong>Build more things</strong><br />\nLast year because I was commuting so much I didn’t have any time outside of work to actually build anything new. So this year I want to plan more time to build things.</p></li>\n\n<li><p><strong>Learn Go</strong><br />\nGo is a really cool programming language that I want to learn more about but haven’t had the time to get started learning. This year I want to follow _Thorsten Ball_’s books <a href=\"https://interpreterbook.com/\" title=\"Writing an Interpreter in Go by Thorsten Ball\">Writing An Interpreter In Go</a> and <a href=\"https://compilerbook.com/\" title=\"Writing a Compiler in Go by Thorsten Ball\">Writing A Compiler In Go</a>.</p></li>\n\n<li><p><strong>Read more books</strong><br />\nI feel like i haven’t read any good books this year (that weren’t about programming), this year I want to read at least a book a month.</p></li>\n\n<li><p><strong>Eat better</strong>\nThis one is pretty easy, after doing the crazy commute and working in a food desert it was hard to stick to a schedule eating habits. This year I need to start eating breakfast, lunch, and dinner.</p></li>\n\n<li><p><strong>Bullet Journal everyday</strong><br />\nI found Bullet Journaling was very therapeutic last year so I want to continue journaling in the new year.</p></li>\n\n<li><p><strong>Take more photographs and shot more video</strong><br />\nI want to start taking more photographs and shooting more video in the new year. It’s something I enjoy doing and find relaxing.</p></li>\n\n<li><p><strong>Get my house in order</strong><br />\nI still haven’t gotten a lot of furniture at my new place so I need to start getting organised at home.</p></li>\n\n<li><p><strong>Be more active</strong><br />\nI want to start being more active durning the week (outside walking to and from work).</p></li>\n</ol>\n",
-				"content_text": "These aren't really _resolutions_, they are just eight things I want to do in 2020:\n\n1. **Build more things**  \n\tLast year because I was commuting so much I didn’t have any time outside of work to actually build anything new. So this year I want to plan more time to build things.\n\n2. **Learn Go**  \n\tGo is a really cool programming language that I want to learn more about but haven’t had the time to get started learning. This year I want to follow _Thorsten Ball_’s books [Writing An Interpreter In Go](https://interpreterbook.com/ \"Writing an Interpreter in Go by Thorsten Ball\") and [Writing A Compiler In Go](https://compilerbook.com/ \"Writing a Compiler in Go by Thorsten Ball\").\n\n3. **Read more books**  \n\tI feel like i haven’t read any good books this year (that weren’t about programming), this year I want to read at least a book a month.\n\n4. **Eat better**\n\tThis one is pretty easy, after doing the crazy commute and working in a food desert it was hard to stick to a schedule eating habits. This year I need to start eating breakfast, lunch, and dinner.\n\n5. **Bullet Journal everyday**  \n\tI found Bullet Journaling was very therapeutic last year so I want to continue journaling in the new year.\n\n6. **Take more photographs and shot more video**  \n\tI want to start taking more photographs and shooting more video in the new year. It’s something I enjoy doing and find relaxing.\n\n7. **Get my house in order**  \n\tI still haven’t gotten a lot of furniture at my new place so I need to start getting organised at home.\n\n8. **Be more active**  \n\tI want to start being more active durning the week (outside walking to and from work).\n",
-				"date_published": "2020-01-01T20:32:41-05:00",
+				"content_html": "<p>These aren&rsquo;t really <em>resolutions</em>, they are just eight things I want to do in 2020:</p>\n\n<ol>\n<li><p><strong>Build more things</strong>  Last year because I was commuting so much I didn’t have any time outside of work to actually build anything new. So this year I want to plan more time to build things.</p></li>\n\n<li><p><strong>Learn Go</strong>  Go is a really cool programming language that I want to learn more about but haven’t had the time to get started learning. This year I want to follow _Thorsten Ball_’s books <a href=\"https://interpreterbook.com/\" title=\"Writing an Interpreter in Go by Thorsten Ball\">Writing An Interpreter In Go</a> and <a href=\"https://compilerbook.com/\" title=\"Writing a Compiler in Go by Thorsten Ball\">Writing A Compiler In Go</a>.</p></li>\n\n<li><p><strong>Read more books</strong>  I feel like i haven’t read any good books this year (that weren’t about programming), this year I want to read at least a book a month.</p></li>\n\n<li><p><strong>Eat better</strong> This one is pretty easy, after doing the crazy commute and working in a food desert it was hard to stick to a schedule eating habits. This year I need to start eating breakfast, lunch, and dinner.</p></li>\n\n<li><p><strong>Bullet Journal everyday</strong>  I found Bullet Journaling was very therapeutic last year so I want to continue journaling in the new year.</p></li>\n\n<li><p><strong>Take more photographs and shot more video</strong>  I want to start taking more photographs and shooting more video in the new year. It’s something I enjoy doing and find relaxing.</p></li>\n\n<li><p><strong>Get my house in order</strong>  I still haven’t gotten a lot of furniture at my new place so I need to start getting organised at home.</p></li>\n\n<li><p><strong>Be more active</strong>  I want to start being more active durning the week (outside walking to and from work).</p></li>\n</ol>\n",
+				"content_text": "These aren't really _resolutions_, they are just eight things I want to do in 2020:\n\n1. **Build more things**  Last year because I was commuting so much I didn’t have any time outside of work to actually build anything new. So this year I want to plan more time to build things.\n\n2. **Learn Go**  Go is a really cool programming language that I want to learn more about but haven’t had the time to get started learning. This year I want to follow _Thorsten Ball_’s books [Writing An Interpreter In Go](https://interpreterbook.com/ \"Writing an Interpreter in Go by Thorsten Ball\") and [Writing A Compiler In Go](https://compilerbook.com/ \"Writing a Compiler in Go by Thorsten Ball\").\n\n3. **Read more books**  I feel like i haven’t read any good books this year (that weren’t about programming), this year I want to read at least a book a month.\n\n4. **Eat better** This one is pretty easy, after doing the crazy commute and working in a food desert it was hard to stick to a schedule eating habits. This year I need to start eating breakfast, lunch, and dinner.\n\n5. **Bullet Journal everyday**  I found Bullet Journaling was very therapeutic last year so I want to continue journaling in the new year.\n\n6. **Take more photographs and shot more video**  I want to start taking more photographs and shooting more video in the new year. It’s something I enjoy doing and find relaxing.\n\n7. **Get my house in order**  I still haven’t gotten a lot of furniture at my new place so I need to start getting organised at home.\n\n8. **Be more active**  I want to start being more active durning the week (outside walking to and from work).\n",
+				"date_published": "2020-01-01T20:32:00-05:00",
 				"url": "https://myles.life/2020/01/01/to-do-list.html"
 			},
 			{
