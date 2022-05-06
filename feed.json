@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2022/05/06/snazzy-labs-has.html",
+				
+				"content_html": "<p>Snazzy Labs has an awesome video demoing <a href=\"https://youtu.be/hhdcbyIoFDU\">Apple’s Tools to repair an iPhone 12 Mini</a>. The simple repair, replacing the battery and fixing a broken screen, requires 44kg of tools shipped in two pelican cases. It’s incredibly overkill.</p>\n",
+				"content_text": "Snazzy Labs has an awesome video demoing [Apple’s Tools to repair an iPhone 12 Mini](https://youtu.be/hhdcbyIoFDU). The simple repair, replacing the battery and fixing a broken screen, requires 44kg of tools shipped in two pelican cases. It’s incredibly overkill.\n",
+				"date_published": "2022-05-06T13:12:26-04:00",
+				"url": "https://myles.life/2022/05/06/snazzy-labs-has.html"
+			},
+			{
 				"id": "http://myles.micro.blog/2021/12/20/amazing-sky-today.html",
 				
 				"content_html": "<p>Amazing sky today</p>\n\n<p><img src=\"uploads/2021/d02c6f6386.jpg\" width=\"600\" height=\"251\" alt=\"\" /></p>\n",
