@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2022/09/25/082135.html",
+				
+				"content_html": "<p><img src=\"uploads/2022/99b65de33d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2022/99b65de33d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-25T08:21:35-04:00",
+				"url": "https://myles.life/2022/09/25/082135.html",
+				"tags": [" Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2022/07/12/clive-thompson-writes.html",
 				
 				"content_html": "<p>Clive Thompson writes about what <a href=\"https://uxdesign.cc/5-design-lessons-from-guitar-pedals-782d41f07d1b\">design lessons we can learn from guitar pedals</a>.</p>\n",
@@ -43,8 +52,8 @@
 			{
 				"id": "http://myles.micro.blog/2021/10/25/this-is-theo.html",
 				
-				"content_html": "<p>This is Theo, the dog.</p>\n\n<p><img src=\"uploads/2021/3ef9edff16.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This is Theo, the dog. \n\n<img src=\"uploads/2021/3ef9edff16.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This is Theo, the dog.</p>\n\n<p><img src=\"https://myles.life/uploads/2021/3ef9edff16.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is Theo, the dog. \n\n<img src=\"https://myles.life/uploads/2021/3ef9edff16.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-25T22:24:30-04:00",
 				"url": "https://myles.life/2021/10/25/this-is-theo.html",
 				"tags": [" Photography"]
