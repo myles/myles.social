@@ -1,1 +1,1 @@
-# [myles.life](https://myles.life/)'s Micro.blog Archive
+# [myles.social](https://myles.social/)'s Micro.blog Archive
