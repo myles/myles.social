@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2023/03/27/playing-around-with.html",
+				
+				"content_html": "<p>Playing around with <a href=\"https://firefly.adobe.com\">Adobe Firefly</a>&rsquo;s beta.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Playing around with [Adobe Firefly](https://firefly.adobe.com)'s beta.\n\n<img src=\"uploads/2023/74e933ee90.jpg\" width=\"600\" height=\"600\" alt=\"AI generated image with the prompt: “Alone at the edge of a universe humming a tune”\"><img src=\"uploads/2023/a49ccfb2c5.jpg\" width=\"600\" height=\"600\" alt=\"AI generated image with the prompt: “Alone at the edge of a universe humming a tune // For merely dreaming we were snow”\"><img src=\"uploads/2023/108d943bb3.jpg\" width=\"600\" height=\"600\" alt=\"AI generated image with the prompt: “Alone at the edge of a universe humming a tune // For merely dreaming we were snow // A siren sounds like the goddess who promises endless apologies of paradise”\"><img src=\"uploads/2023/ab23633831.jpg\" width=\"600\" height=\"600\" alt=\"AI generated image with the prompt: “Alone at the edge of a universe humming a tune // For merely dreaming we were snow // A siren sounds like the goddess who promises endless apologies of paradise // And only she can make it right”\"><img src=\"uploads/2023/81fff22532.jpg\" width=\"600\" height=\"600\" alt=\"AI generated image with the prompt: “Alone at the edge of a universe humming a tune // For merely dreaming we were snow // A siren sounds like the goddess who promises endless apologies of paradise // And only she can make it right // So things are different tonight”\"><img src=\"uploads/2023/6cbb46923f.jpg\" width=\"600\" height=\"600\" alt=\"AI generated image with the prompt: “Alone at the edge of a universe humming a tune // For merely dreaming we were snow // A siren sounds like the goddess who promises endless apologies of paradise // And only she can make it right // So things are different tonight // We'll go together in flight”\">\n",
+				"date_published": "2023-03-27T17:06:25-04:00",
+				"url": "https://myles.social/2023/03/27/playing-around-with.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2023/03/25/morning-walk-was.html",
 				
 				"content_html": "<p>Morning walk was so cold and so wet.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -45,7 +54,7 @@
 				"id": "http://myles.micro.blog/2023/03/04/snowy-day-in.html",
 				
 				"content_html": "<p>Snowy day in North York.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Snowy day in North York.\n\n<img src=\"uploads/2023/5cfadb9989.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Snowy day in North York.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2023/5cfadb9989.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-04T12:56:03-04:00",
 				"url": "https://myles.social/2023/03/04/snowy-day-in.html",
 				"tags": ["Photography"]
