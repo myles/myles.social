@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2023/05/30/playing-around-with.html",
+				
+				"content_html": "<p>Playing around with Photoshop&rsquo;s Generative Fill feature. This was two similar photos I took at Ontario Place this winter.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Playing around with Photoshop's Generative Fill feature. This was two similar photos I took at Ontario Place this winter.\n\n<img src=\"uploads/2023/48ce671594.jpg\" width=\"600\" height=\"600\" alt=\"A stiched together AI generated photo for Lake Ontario taken from Ontario Place.\">\n",
+				"date_published": "2023-05-30T21:26:57-04:00",
+				"url": "https://myles.social/2023/05/30/playing-around-with.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2023/04/24/torontos-cityscape-at.html",
 				
 				"content_html": "<p>Toronto’s cityscape at sunset.</p>\n<!-- raw HTML omitted -->\n",
