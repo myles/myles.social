@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2023/09/04/street-art-of.html",
+				
+				"content_html": "<p>Street Art of Doug Ford in Graffiti Alley</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Street Art of Doug Ford in Graffiti Alley\n\n<img src=\"uploads/2023/52b83aad01f8412d8cff7b7a3e9fe685.jpg\" width=\"600\" height=\"600\" alt=\"Street art of Doug Ford (current premiere Ontario) holding two large sacks of money.\">\n",
+				"date_published": "2023-09-04T10:51:54-04:00",
+				"url": "https://myles.social/2023/09/04/street-art-of.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2023/08/17/morningglory.html",
 				
 				"content_html": "<p>Morning-Glory</p>\n<!-- raw HTML omitted -->\n",
