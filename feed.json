@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2024/01/10/first-pydatato-meetup.html",
+				
+				"content_html": "<p>First <a href=\"https://pydatato.ca\">PyDataTO</a> meetup of the year.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "First [PyDataTO](https://pydatato.ca) meetup of the year.\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-01-10T18:30:40-05:00",
+				"url": "https://myles.social/2024/01/10/first-pydatato-meetup.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2023/12/13/made-a-small.html",
 				
 				"content_html": "<p>Made a small Django function to back-port <code>update_or_create</code> from Django 5.0, specifically adding <code>create_defaults</code> to the create operations.\n<a href=\"https://gist.github.com/myles/a6905f94e4e9955f02fea2554db982a7\">https://gist.github.com/myles/a6905f94e4e9955f02fea2554db982a7</a></p>\n",
@@ -44,7 +53,7 @@
 				"id": "http://myles.micro.blog/2023/09/04/street-art-of.html",
 				
 				"content_html": "<p>Street Art of Doug Ford in Graffiti Alley</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Street Art of Doug Ford in Graffiti Alley\n\n<img src=\"uploads/2023/52b83aad01f8412d8cff7b7a3e9fe685.jpg\" width=\"600\" height=\"600\" alt=\"Street art of Doug Ford (current premiere Ontario) holding two large sacks of money.\">\n",
+				"content_text": "Street Art of Doug Ford in Graffiti Alley\n\n<img src=\"https://cdn.uploads.micro.blog/806/2023/52b83aad01f8412d8cff7b7a3e9fe685.jpg\" width=\"600\" height=\"600\" alt=\"Street art of Doug Ford (current premiere Ontario) holding two large sacks of money.\">\n",
 				"date_published": "2023-09-04T09:51:54-05:00",
 				"url": "https://myles.social/2023/09/04/street-art-of.html",
 				"tags": ["Photography"]
