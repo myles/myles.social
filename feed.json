@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2024/07/11/i-setup-ledbury.html",
+				
+				"content_html": "<p>I mapped out <a href=\"https://www.openstreetmap.org/#map=18/43.72730/-79.42590\">Ledbury Park on OpenStreetMaps</a>.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I mapped out [Ledbury Park on OpenStreetMaps](https://www.openstreetmap.org/#map=18/43.72730/-79.42590).\n\n<img src=\"uploads/2024/ledbury-park-before.png\" width=\"600\" height=\"365\" alt=\"An OpenStreetMaps view of Ledbury Park before I made some edits.\"><img src=\"uploads/2024/ledbury-park-after.png\" width=\"600\" height=\"365\" alt=\"What Ledbury Park looks like in OpenStreetMaps now.\">\n",
+				"date_published": "2024-07-11T20:56:32-04:00",
+				"url": "https://myles.social/2024/07/11/i-setup-ledbury.html"
+			},
+			{
 				"id": "http://myles.micro.blog/2024/06/22/purple-flowers.html",
 				
 				"content_html": "<p>Purple flowers.</p>\n<!-- raw HTML omitted -->\n",
