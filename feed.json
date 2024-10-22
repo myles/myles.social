@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2024/10/21/hanlans-island.html",
+				
+				"content_html": "<p>Hanlan&rsquo;s Island</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hanlan's Island\n\n<img src=\"uploads/2024/36124ca5532a4362bf3f85cb1e652a00.jpg\" width=\"600\" height=\"260\" alt=\"\">\n",
+				"date_published": "2024-10-21T22:44:10-04:00",
+				"url": "https://myles.social/2024/10/21/hanlans-island.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://myles.micro.blog/2024/09/29/kirby-in-graffiti.html",
+				
+				"content_html": "<p>Kirby in Graffiti Alley.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Kirby in Graffiti Alley.\n\n<img src=\"uploads/2024/078b400071784242a794a18bd8779757.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-29T14:22:36-04:00",
+				"url": "https://myles.social/2024/09/29/kirby-in-graffiti.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2024/09/18/i-wrote-a.html",
 				
 				"content_html": "<p>I wrote a small library for formatting dates in Python using Moment.js like formatting: <a href=\"https://gist.github.com/myles/a179a7c425f2031b0f59f61dc49fa2c4\">gist.github.com/myles/a17&hellip;</a>. Useful if you want to integrate Python and Obsidian&rsquo;s date and time formatting.</p>\n",
@@ -37,7 +55,7 @@
 				"id": "http://myles.micro.blog/2024/07/28/115115.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/6465a562175941bc9de1c8efdecaf975.jpg\" width=\"600\" height=\"600\" alt=\"Looking through some trees at a farmer's field with the sun going down in the late afternoon.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/806/2024/6465a562175941bc9de1c8efdecaf975.jpg\" width=\"600\" height=\"600\" alt=\"Looking through some trees at a farmer's field with the sun going down in the late afternoon.\">\n",
 				"date_published": "2024-07-28T11:51:15-04:00",
 				"url": "https://myles.social/2024/07/28/115115.html",
 				"tags": ["Photography"]
@@ -46,7 +64,7 @@
 				"id": "http://myles.micro.blog/2024/07/11/i-setup-ledbury.html",
 				
 				"content_html": "<p>I mapped out <a href=\"https://www.openstreetmap.org/#map=18/43.72730/-79.42590\">Ledbury Park on OpenStreetMaps</a>.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I mapped out [Ledbury Park on OpenStreetMaps](https://www.openstreetmap.org/#map=18/43.72730/-79.42590).\n\n<img src=\"uploads/2024/ledbury-park-before.png\" width=\"600\" height=\"365\" alt=\"An OpenStreetMaps view of Ledbury Park before I made some edits.\"><img src=\"uploads/2024/ledbury-park-after.png\" width=\"600\" height=\"365\" alt=\"What Ledbury Park looks like in OpenStreetMaps now.\">\n",
+				"content_text": "I mapped out [Ledbury Park on OpenStreetMaps](https://www.openstreetmap.org/#map=18/43.72730/-79.42590).\n\n<img src=\"https://cdn.uploads.micro.blog/806/2024/ledbury-park-before.png\" width=\"600\" height=\"365\" alt=\"An OpenStreetMaps view of Ledbury Park before I made some edits.\"><img src=\"https://cdn.uploads.micro.blog/806/2024/ledbury-park-after.png\" width=\"600\" height=\"365\" alt=\"What Ledbury Park looks like in OpenStreetMaps now.\">\n",
 				"date_published": "2024-07-11T20:56:32-04:00",
 				"url": "https://myles.social/2024/07/11/i-setup-ledbury.html"
 			},
