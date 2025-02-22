@@ -7,13 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2025/02/22/skiing-in-banff.html",
+				
+				"content_html": "<p>Skiing in Banff</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Skiing in Banff\n\n<img src=\"uploads/2025/f28ae12bd4454393a0acbd403ff26944.jpg\" width=\"600\" height=\"600\" alt=\"Ski run with mountains in the distance. \"><img src=\"uploads/2025/603d03aab486465eb730ad8ae24007a9.jpg\" width=\"600\" height=\"600\" alt=\"My brother, Hayden, stop at the side of a ski run.\"><img src=\"uploads/2025/81bfee0baf6343b68cdc811266b3dc1b.jpg\" width=\"600\" height=\"600\" alt=\"Ski run with mountains in the distance. \"><img src=\"uploads/2025/e9e7788e729e49418bc620dcc2bcbf5d.jpg\" width=\"600\" height=\"600\" alt=\"A female deer in a snowing parking lot.\"><img src=\"uploads/2025/27206201b544462bbd12c42666f4bc90.jpg\" width=\"600\" height=\"600\" alt=\"Ski run with mountains in the distance. \"><img src=\"uploads/2025/92c18c63cbc142aaab45d6039c86ed64.jpg\" width=\"600\" height=\"600\" alt=\"Parking lot at Sunshine.\"><img src=\"uploads/2025/71ad47059beb481f89563107a8e3d8fe.jpg\" width=\"600\" height=\"600\" alt=\"Base of the Sunshine Village gondola.\"><img src=\"uploads/2025/2d774882bfc943e7957a34b263cacfc3.jpg\" width=\"600\" height=\"600\" alt=\"Ski run with mountains in the distance. \">\n",
+				"date_published": "2025-02-22T14:23:40-05:00",
+				"url": "https://myles.social/2025/02/22/skiing-in-banff.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://myles.micro.blog/2025/02/13/it-was-a-very-snowy.html",
+				
+				"content_html": "<p>It was a very snowy walk into work this morning.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It was a very snowy walk into work this morning.\n\n<img src=\"uploads/2025/3329822617d647d78550840ad96070e6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-02-13T13:02:14-05:00",
+				"url": "https://myles.social/2025/02/13/it-was-a-very-snowy.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2025/02/08/japanese-rural-life-adventure-is.html",
 				
 				"content_html": "<p><a href=\"https://apps.apple.com/us/app/japanese-rural-life-adventure/id1634749545\">Japanese Rural Life Adventure</a> is such a cozy game.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "[Japanese Rural Life Adventure](https://apps.apple.com/us/app/japanese-rural-life-adventure/id1634749545) is such a cozy game.\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://myles.social/uploads/2025/f8dec108656b4e93a88c2e5fe0d04898.mov\" width=\"480\" height=\"640\" poster=\"https://myles.social/uploads/2025/11be69d5a7.png\" preload=\"none\"></video>\n",
 				"date_published": "2025-02-08T13:36:17-05:00",
 				"url": "https://myles.social/2025/02/08/japanese-rural-life-adventure-is.html",
-				"tags": [" Video Games"]
+				"tags": ["Video Games"]
 			},
 			{
 				"id": "http://myles.micro.blog/2025/01/29/finally-some-blue-sky.html",
@@ -28,10 +46,9 @@
 				"id": "http://myles.micro.blog/2025/01/27/i-wish-i-had-this.html",
 				
 				"content_html": "<p>I wish I had this level of confidence.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I wish I had this level of confidence.\n\n<img src=\"uploads/2025/9a605930dc124837979179598bc172d4.png\" width=\"275\" height=\"600\" alt=\"A screenshot of Duolingo where an English user is learning French. The user is being prompted to translate &quot;Je comprends tout. C'est normal, je suis très intelligente.&quot; The user has correctly translated the sentence to &quot;I understand everything. That's normal; I'm very intelligent.&quot;\">\n",
+				"content_text": "I wish I had this level of confidence.\n\n<img src=\"uploads/2025/9a605930dc124837979179598bc172d4.png\" width=\"275\" height=\"600\" alt=\"A screenshot of Duolingo where an English user is learning French. The user is being prompted to translate 'Je comprends tout. C'est normal, je suis très intelligente.' The user has correctly translated the sentence to 'I understand everything. That's normal; I'm very intelligent.'\">\n",
 				"date_published": "2025-01-27T13:20:47-05:00",
-				"url": "https://myles.social/2025/01/27/i-wish-i-had-this.html",
-				"tags": ["Photography"]
+				"url": "https://myles.social/2025/01/27/i-wish-i-had-this.html"
 			},
 			{
 				"id": "http://myles.micro.blog/2025/01/26/lonely-tree-at-woodbine-beach.html",
@@ -1419,7 +1436,7 @@
 				"content_text": "[Skate City](https://apps.apple.com/ca/app/skate-city/id1182476302) for iOS is really awesome. \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://myles.social/uploads/2019/c316dcaace.mov\" width=\"816\" height=\"384\" poster=\"https://myles.social/uploads/2019/35d2a5b181.png\" preload=\"none\"></video>\n",
 				"date_published": "2019-11-05T09:45:42-05:00",
 				"url": "https://myles.social/2019/11/05/skate-city-for.html",
-				"tags": [" Video Games"]
+				"tags": ["Video Games"]
 			},
 			{
 				"id": "http://myles.micro.blog/2019/11/03/my-new-normal.html",
