@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2025/04/02/love-an-april-snowstorm.html",
+				
+				"content_html": "<p>Love an April snowstorm!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Love an April snowstorm!\n\n<img src=\"uploads/2025/52a52bdc43ea45c78875bbb6b30215ab.jpg\" width=\"600\" height=\"600\" alt=\"The backyard of my co-working space, 1RG, is lightly covered in snow.\">\n",
+				"date_published": "2025-04-02T14:10:40-04:00",
+				"url": "https://myles.social/2025/04/02/love-an-april-snowstorm.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://myles.micro.blog/2025/03/26/snowy-walk-into-rg-today.html",
+				
+				"content_html": "<p>Snowy walk into 1RG today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Snowy walk into 1RG today.\n\n<img src=\"uploads/2025/dac7b7791e924fbf8872c376606a4fab.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-26T11:43:26-04:00",
+				"url": "https://myles.social/2025/03/26/snowy-walk-into-rg-today.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2025/03/24/finished-reading-the-impending-blindness.html",
 				
 				"content_html": "<p>📚 Finished reading: <a href=\"https://micro.blog/books/9781910395936\">The Impending Blindness of Billie Scott</a> by Zoe Thorogood.</p>\n<!-- raw HTML omitted -->\n",
@@ -36,7 +54,7 @@
 				"id": "http://myles.micro.blog/2025/03/15/watched-mickey.html",
 				
 				"content_html": "<p>🎥 Watched <a href=\"https://www.themoviedb.org/movie/696506-mickey-17\">Mickey 17</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎥 Watched [Mickey 17](https://www.themoviedb.org/movie/696506-mickey-17).\n\n<img src=\"uploads/2025/9a298513fc.jpg\" width=\"400\" height=\"600\" alt=\"Film poster for Mickey 17\">\n",
+				"content_text": "🎥 Watched [Mickey 17](https://www.themoviedb.org/movie/696506-mickey-17).\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/9a298513fc.jpg\" width=\"400\" height=\"600\" alt=\"Film poster for Mickey 17\">\n",
 				"date_published": "2025-03-15T01:25:05-04:00",
 				"url": "https://myles.social/2025/03/15/watched-mickey.html",
 				"tags": ["Films"]
@@ -45,7 +63,7 @@
 				"id": "http://myles.micro.blog/2025/03/14/watching-la-jete.html",
 				
 				"content_html": "<p>🎥 Watched <a href=\"https://www.themoviedb.org/movie/662-la-jetee\">La Jetée</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🎥 Watched [La Jetée](https://www.themoviedb.org/movie/662-la-jetee).\n\n<img src=\"uploads/2025/0893485cd9.jpg\" width=\"392\" height=\"600\" alt=\"Film poster for La Jetée.\">\n",
+				"content_text": "🎥 Watched [La Jetée](https://www.themoviedb.org/movie/662-la-jetee).\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/0893485cd9.jpg\" width=\"392\" height=\"600\" alt=\"Film poster for La Jetée.\">\n",
 				"date_published": "2025-03-14T20:11:02-04:00",
 				"url": "https://myles.social/2025/03/14/watching-la-jete.html",
 				"tags": ["Films"]
