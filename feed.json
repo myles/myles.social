@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2025/04/07/im-getting-pretty-tired-of.html",
+				
+				"content_html": "<p>I’m getting pretty tired of having to review LLM-generated nonsense.</p>\n",
+				"content_text": "I’m getting pretty tired of having to review LLM-generated nonsense.\n",
+				"date_published": "2025-04-07T14:20:45-04:00",
+				"url": "https://myles.social/2025/04/07/im-getting-pretty-tired-of.html"
+			},
+			{
+				"id": "http://myles.micro.blog/2025/04/07/everyone-makes-fun-of-me.html",
+				
+				"content_html": "<p>Everyone makes fun of me for my opening word.</p>\n<pre tabindex=\"0\"><code>⬜⬜🟩⬜🟨\n🟩🟩🟩🟩🟩\n</code></pre>",
+				"content_text": "Everyone makes fun of me for my opening word.\n```\n⬜⬜🟩⬜🟨\n🟩🟩🟩🟩🟩\n```\n",
+				"date_published": "2025-04-07T12:38:48-04:00",
+				"url": "https://myles.social/2025/04/07/everyone-makes-fun-of-me.html",
+				"tags": ["Wordle"]
+			},
+			{
+				"id": "http://myles.micro.blog/2025/04/05/bunnies.html",
+				
+				"content_html": "<p>Bunnies!!!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Bunnies!!!\n\n<img src=\"uploads/2025/ae950708048445309fecbac8d90f2cc3.jpg\" width=\"600\" height=\"600\" alt=\"A bunny in the front yard of a house in the daylight.\"><img src=\"uploads/2025/99160eb8b82048458cfd903682ef4f0c.jpg\" width=\"600\" height=\"600\" alt=\"A bunny in the front yard of a house in the night time.\">\n",
+				"date_published": "2025-04-05T21:55:11-04:00",
+				"url": "https://myles.social/2025/04/05/bunnies.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2025/04/02/love-an-april-snowstorm.html",
 				
 				"content_html": "<p>Love an April snowstorm!</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +54,7 @@
 				"id": "http://myles.micro.blog/2025/03/24/finished-reading-the-impending-blindness.html",
 				
 				"content_html": "<p>📚 Finished reading: <a href=\"https://micro.blog/books/9781910395936\">The Impending Blindness of Billie Scott</a> by Zoe Thorogood.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📚 Finished reading: [The Impending Blindness of Billie Scott](https://micro.blog/books/9781910395936) by Zoe Thorogood.\n\n<img src=\"uploads/2025/the-impending-blindness-of-billie-scott.jpg\" width=\"424\" height=\"600\" alt=\"\">\n",
+				"content_text": "📚 Finished reading: [The Impending Blindness of Billie Scott](https://micro.blog/books/9781910395936) by Zoe Thorogood.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/the-impending-blindness-of-billie-scott.jpg\" width=\"424\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-24T15:34:27-04:00",
 				"url": "https://myles.social/2025/03/24/finished-reading-the-impending-blindness.html",
 				"tags": ["Books"]
@@ -36,8 +62,8 @@
 			{
 				"id": "http://myles.micro.blog/2025/03/21/finished-reading-witchcraft-for-wayward.html",
 				
-				"content_html": "<p>📚 Finished reading: <a href=\"https://micro.blog/books/9780593818183\">Witchcraft for Wayward Girls</a> by Grady Hendrix</p>\n<p><img src=\"https://myles.social/uploads/2025/81tfqylwiql.jpg\" alt=\"Cover for &ldquo;Witchcraft for Wayward Girls by Grady Hendrix&rdquo;\"></p>\n",
-				"content_text": "📚 Finished reading: [Witchcraft for Wayward Girls](https://micro.blog/books/9780593818183) by Grady Hendrix\n\n![Cover for \"Witchcraft for Wayward Girls by Grady Hendrix\"](https://myles.social/uploads/2025/81tfqylwiql.jpg)\n",
+				"content_html": "<p>📚 Finished reading: <a href=\"https://micro.blog/books/9780593818183\">Witchcraft for Wayward Girls</a> by Grady Hendrix</p>\n<p><img src=\"https://cdn.uploads.micro.blog/806/2025/81tfqylwiql.jpg\" alt=\"Cover for &ldquo;Witchcraft for Wayward Girls by Grady Hendrix&rdquo;\"></p>\n",
+				"content_text": "📚 Finished reading: [Witchcraft for Wayward Girls](https://micro.blog/books/9780593818183) by Grady Hendrix\n\n![Cover for \"Witchcraft for Wayward Girls by Grady Hendrix\"](https://cdn.uploads.micro.blog/806/2025/81tfqylwiql.jpg)\n",
 				"date_published": "2025-03-21T00:19:57-04:00",
 				"url": "https://myles.social/2025/03/21/finished-reading-witchcraft-for-wayward.html",
 				"tags": ["Books"]
@@ -48,7 +74,8 @@
 				"content_html": "<p>Pretty disappointed with myself today:</p>\n<pre tabindex=\"0\"><code>⬜🟩⬜⬜⬜\n⬜🟩🟨🟩🟩\n🟩🟩⬜🟩🟩\n🟩🟩⬜🟩🟩\n🟩🟩⬜🟩🟩\n🟩🟩🟩🟩🟩\n</code></pre>",
 				"content_text": "Pretty disappointed with myself today:\n\n```\n⬜🟩⬜⬜⬜\n⬜🟩🟨🟩🟩\n🟩🟩⬜🟩🟩\n🟩🟩⬜🟩🟩\n🟩🟩⬜🟩🟩\n🟩🟩🟩🟩🟩\n```\n",
 				"date_published": "2025-03-18T15:40:22-04:00",
-				"url": "https://myles.social/2025/03/18/pretty-disappointed-with-myself-today.html"
+				"url": "https://myles.social/2025/03/18/pretty-disappointed-with-myself-today.html",
+				"tags": ["Wordle"]
 			},
 			{
 				"id": "http://myles.micro.blog/2025/03/15/watched-mickey.html",
