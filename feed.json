@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2025/06/02/day-two-of-the-microblog.html",
+				
+				"content_html": "<p>Day two of the <a href=\"https://challenges.micro.blog/2025/06/02/the-prompt-for-day-of.html\">Micro.blog photo challenge</a>, the prompt was <em>curve</em>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day two of the [Micro.blog photo challenge](https://challenges.micro.blog/2025/06/02/the-prompt-for-day-of.html), the prompt was _curve_.\n\n<img src=\"uploads/2025/daa616f219.jpg\" width=\"600\" height=\"600\" alt=\"A glass of beer casts a shadow on a wooden table illuminated by sunlight.\">\n",
+				"date_published": "2025-06-02T21:35:59-04:00",
+				"url": "https://myles.social/2025/06/02/day-two-of-the-microblog.html",
+				"tags": ["Photography","Micro.blog photo challenge"]
+			},
+			{
+				"id": "http://myles.micro.blog/2025/06/01/on-the-first-day-of.html",
+				
+				"content_html": "<p>On the first day of the <a href=\"https://challenges.micro.blog/2025/06/01/the-prompt-for-day-of.html\">Micro.blog photo challenge</a>, I took a photo of a tree on the shore of Lake Ontario.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "On the first day of the [Micro.blog photo challenge](https://challenges.micro.blog/2025/06/01/the-prompt-for-day-of.html), I took a photo of a tree on the shore of Lake Ontario.\n\n<img src=\"uploads/2025/7c674d5912.jpg\" width=\"600\" height=\"600\" alt=\"A lakeside view features a sandy beach, lush tree, and boats docked by a pier under a partly cloudy sky.\">\n",
+				"date_published": "2025-06-01T22:38:18-04:00",
+				"url": "https://myles.social/2025/06/01/on-the-first-day-of.html",
+				"tags": ["Photography","Micro.blog photo challenge"]
+			},
+			{
+				"id": "http://myles.micro.blog/2025/05/30/i-saw-a-coollooking-structure.html",
+				
+				"content_html": "<p>I saw a cool-looking structure today made of scaffolding and tarps near Fort York.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I saw a cool-looking structure today made of scaffolding and tarps near Fort York.\n\n<img src=\"uploads/2025/f7c9df08c9.jpg\" width=\"600\" height=\"600\" alt=\"A structure constructed from scaffolding, blue netting, and yellow buckets holds multiple plants.\"><img src=\"uploads/2025/7c8d9b760c.jpg\" width=\"600\" height=\"600\" alt=\"A colorful, multi-level urban garden structure made from large planters and scaffolding is set against a blue sky backdrop.\">\n",
+				"date_published": "2025-05-30T17:44:23-04:00",
+				"url": "https://myles.social/2025/05/30/i-saw-a-coollooking-structure.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://myles.micro.blog/2025/05/30/saw-this-window-display-near.html",
+				
+				"content_html": "<p>Saw this window display near Dundas &amp; Howard Park: a stack of blinking alarm clocks, a fake fried egg, and a line of chips sorted by size.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Saw this window display near Dundas & Howard Park: a stack of blinking alarm clocks, a fake fried egg, and a line of chips sorted by size.\n\n<img src=\"uploads/2025/6e08314d84.jpg\" width=\"600\" height=\"600\" alt=\"A storefront window display features a stack of electronic devices surrounded by kitchen items and empty wine bottles.\"><img src=\"uploads/2025/e3054ab044.jpg\" width=\"600\" height=\"600\" alt=\"Several wine bottles, a pack of matches, and a lineup of a chips ordered by size are displayed near a window.\"><img src=\"uploads/2025/3b564e11c5.jpg\" width=\"600\" height=\"600\" alt=\"A storefront window display features various bottles and decorative items, with reflections of the street and trees visible on the glass.\">\n",
+				"date_published": "2025-05-30T13:09:12-04:00",
+				"url": "https://myles.social/2025/05/30/saw-this-window-display-near.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2025/05/28/cat-in-a-window.html",
 				
 				"content_html": "<p>Cat in a window.</p>\n<!-- raw HTML omitted -->\n",
@@ -19,7 +55,7 @@
 				"id": "http://myles.micro.blog/2025/05/21/one-day-i-dream-of.html",
 				
 				"content_html": "<p>One day, I dream of opening Spotify and not seeing an auto-genreated playlist with “sad girl” in the title.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One day, I dream of opening Spotify and not seeing an auto-genreated playlist with “sad girl” in the title.\n\n<img src=\"uploads/2025/screenshot-2025-05-21-at-4.46.39pm.png\" width=\"600\" height=\"295\" alt=\"A Spotify playlist titled 'sad girl bubblegrunge wednesday afternoon' features a colorful gradient with a sunburst design and includes 50 songs inspired by indie and bubblegrunge genres.\">\n",
+				"content_text": "One day, I dream of opening Spotify and not seeing an auto-genreated playlist with “sad girl” in the title.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/screenshot-2025-05-21-at-4.46.39pm.png\" width=\"600\" height=\"295\" alt=\"A Spotify playlist titled 'sad girl bubblegrunge wednesday afternoon' features a colorful gradient with a sunburst design and includes 50 songs inspired by indie and bubblegrunge genres.\">\n",
 				"date_published": "2025-05-21T16:50:47-04:00",
 				"url": "https://myles.social/2025/05/21/one-day-i-dream-of.html"
 			},
@@ -27,7 +63,7 @@
 				"id": "http://myles.micro.blog/2025/05/12/i-spring.html",
 				
 				"content_html": "<p>I 🫀 Spring!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I 🫀 Spring!\n\n<img src=\"uploads/2025/8a59f035a536461cb479cf875a6dbd21.jpg\" width=\"600\" height=\"600\" alt=\"Photo taken laying down in the backyard at my co-working space of a blue sky with some clouds.\">\n",
+				"content_text": "I 🫀 Spring!\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/8a59f035a536461cb479cf875a6dbd21.jpg\" width=\"600\" height=\"600\" alt=\"Photo taken laying down in the backyard at my co-working space of a blue sky with some clouds.\">\n",
 				"date_published": "2025-05-12T20:15:36-04:00",
 				"url": "https://myles.social/2025/05/12/i-spring.html",
 				"tags": ["Photography"]
@@ -36,7 +72,7 @@
 				"id": "http://myles.micro.blog/2025/05/07/i-love-these-little-spring.html",
 				
 				"content_html": "<p>I love these little spring flowers.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I love these little spring flowers.\n\n<img src=\"uploads/2025/dd2d9c6889.jpg\" width=\"600\" height=\"600\" alt=\"White flowers with multiple petals are blooming among green foliage.\">\n",
+				"content_text": "I love these little spring flowers.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/dd2d9c6889.jpg\" width=\"600\" height=\"600\" alt=\"White flowers with multiple petals are blooming among green foliage.\">\n",
 				"date_published": "2025-05-07T11:23:08-04:00",
 				"url": "https://myles.social/2025/05/07/i-love-these-little-spring.html",
 				"tags": ["Photography"]
@@ -45,7 +81,7 @@
 				"id": "http://myles.micro.blog/2025/05/05/still-thinking-about-this-passage.html",
 				
 				"content_html": "<p>Still thinking about this passage from <a href=\"https://micro.blog/books/9780300278194\">Ballerina by Patrick Modiano</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Still thinking about this passage from [Ballerina by Patrick Modiano](https://micro.blog/books/9780300278194).\n\n<img src=\"uploads/2025/img-0462.jpeg\" width=\"600\" height=\"196\" alt=\"A passage from Ballerina by Patrick Modiano: Most of the time, during our walks throughtout Paris or on bus rides, we didn't speak. The silence between us was a much stronger bond than words. We were like those people who walk side by side, never saying a thing but always taking the long way around.\">\n",
+				"content_text": "Still thinking about this passage from [Ballerina by Patrick Modiano](https://micro.blog/books/9780300278194).\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/img-0462.jpeg\" width=\"600\" height=\"196\" alt=\"A passage from Ballerina by Patrick Modiano: Most of the time, during our walks throughtout Paris or on bus rides, we didn't speak. The silence between us was a much stronger bond than words. We were like those people who walk side by side, never saying a thing but always taking the long way around.\">\n",
 				"date_published": "2025-05-05T13:41:50-04:00",
 				"url": "https://myles.social/2025/05/05/still-thinking-about-this-passage.html",
 				"tags": ["Books"]
@@ -558,8 +594,8 @@
 			{
 				"id": "http://myles.micro.blog/2024/03/09/arc-apps-json-export-to.html",
 				"title": "Arc App's JSON Export to SQLite",
-				"content_html": "<p>I started working on a Dogsheep utility for processing <a href=\"https://www.bigpaua.com/arcapp/\">Arc App</a>&rsquo;s Daily (or Monthly) JSON exports into a SQLite database. This provides the ability to analysis the places I visit and activities I am doing in <a href=\"https://datasette.io\">Datasette</a>.</p>\n<p><img src=\"https://myles.social/uploads/2025/bf8f1aec98.jpg\" alt=\"Screenshot of Datasette showing the timeline_items table in a SQLite database. There is a map at the bottom that is showing the locations I traveled in the last few days.\" title=\"Datasette screenshot.\"></p>\n<p>I’ve published a working alpha version of the Dogsheep utility, <a href=\"https://github.com/myles/arc-to-sqlite\" title=\"arc-to-sqlite GitHub repository\">arc-to-sqlite, on my GitHub</a>. Check it out if you are interested.</p>\n",
-				"content_text": "I started working on a Dogsheep utility for processing [Arc App](https://www.bigpaua.com/arcapp/)'s Daily (or Monthly) JSON exports into a SQLite database. This provides the ability to analysis the places I visit and activities I am doing in [Datasette](https://datasette.io).\n\n![Screenshot of Datasette showing the timeline_items table in a SQLite database. There is a map at the bottom that is showing the locations I traveled in the last few days.](https://myles.social/uploads/2025/bf8f1aec98.jpg \"Datasette screenshot.\")\n\nI’ve published a working alpha version of the Dogsheep utility, [arc-to-sqlite, on my GitHub](https://github.com/myles/arc-to-sqlite \"arc-to-sqlite GitHub repository\"). Check it out if you are interested.\n",
+				"content_html": "<p>I started working on a Dogsheep utility for processing <a href=\"https://www.bigpaua.com/arcapp/\">Arc App</a>&rsquo;s Daily (or Monthly) JSON exports into a SQLite database. This provides the ability to analysis the places I visit and activities I am doing in <a href=\"https://datasette.io\">Datasette</a>.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/806/2025/bf8f1aec98.jpg\" alt=\"Screenshot of Datasette showing the timeline_items table in a SQLite database. There is a map at the bottom that is showing the locations I traveled in the last few days.\" title=\"Datasette screenshot.\"></p>\n<p>I’ve published a working alpha version of the Dogsheep utility, <a href=\"https://github.com/myles/arc-to-sqlite\" title=\"arc-to-sqlite GitHub repository\">arc-to-sqlite, on my GitHub</a>. Check it out if you are interested.</p>\n",
+				"content_text": "I started working on a Dogsheep utility for processing [Arc App](https://www.bigpaua.com/arcapp/)'s Daily (or Monthly) JSON exports into a SQLite database. This provides the ability to analysis the places I visit and activities I am doing in [Datasette](https://datasette.io).\n\n![Screenshot of Datasette showing the timeline_items table in a SQLite database. There is a map at the bottom that is showing the locations I traveled in the last few days.](https://cdn.uploads.micro.blog/806/2025/bf8f1aec98.jpg \"Datasette screenshot.\")\n\nI’ve published a working alpha version of the Dogsheep utility, [arc-to-sqlite, on my GitHub](https://github.com/myles/arc-to-sqlite \"arc-to-sqlite GitHub repository\"). Check it out if you are interested.\n",
 				"date_published": "2024-03-09T17:19:42-04:00",
 				"url": "https://myles.social/2024/03/09/arc-apps-json-export-to.html",
 				"tags": ["Programming","Longform"]
