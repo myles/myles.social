@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2025/06/03/day-three-of-the-microblog.html",
+				
+				"content_html": "<p>Day three of the <a href=\"https://challenges.micro.blog/2025/06/03/the-prompt-for-day-of.html\">Micro.blog photo challenge</a> is <em>shadow</em>, and I thought I’d share a photo of the bridge near Fort York. In the spring and summer, spiders like to build their webs under the lights, casting the coolest shadows.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day three of the [Micro.blog photo challenge](https://challenges.micro.blog/2025/06/03/the-prompt-for-day-of.html) is _shadow_, and I thought I’d share a photo of the bridge near Fort York. In the spring and summer, spiders like to build their webs under the lights, casting the coolest shadows.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/c4cb3f521d.jpg\" width=\"600\" height=\"600\" alt=\"A blurry shadow of a spider appears on a concrete surface.\">\n",
+				"date_published": "2025-06-03T22:37:26-04:00",
+				"url": "https://myles.social/2025/06/03/day-three-of-the-microblog.html",
+				"tags": ["Photography","Micro.blog photo challenge"]
+			},
+			{
+				"id": "http://myles.micro.blog/2025/06/03/there-are-two-thermal-cameras.html",
+				
+				"content_html": "<p>There are two thermal cameras on The Bentway near Bathurst.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "There are two thermal cameras on The Bentway near Bathurst.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/501c175e2d.jpg\" width=\"600\" height=\"600\" alt=\"A vibrant, multi-colored light display of a thermal camera is visible through a round, dark viewing apparatus in an urban nighttime setting.\"><img src=\"https://cdn.uploads.micro.blog/806/2025/68d75bf23b.jpg\" width=\"600\" height=\"600\" alt=\"A thermal camera display shows a heat map indicating temperature variations in a scene.\"><img src=\"https://cdn.uploads.micro.blog/806/2025/ee9d8ed754.jpg\" width=\"600\" height=\"600\" alt=\"Two thermal cameras are mounted on a colourful platform beneath a sign that reads The Granovsky Gluskin Path against a nighttime cityscape.\">\n",
+				"date_published": "2025-06-03T22:11:55-04:00",
+				"url": "https://myles.social/2025/06/03/there-are-two-thermal-cameras.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2025/06/02/day-two-of-the-microblog.html",
 				
 				"content_html": "<p>Day two of the <a href=\"https://challenges.micro.blog/2025/06/02/the-prompt-for-day-of.html\">Micro.blog photo challenge</a>, the prompt was <em>curve</em>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day two of the [Micro.blog photo challenge](https://challenges.micro.blog/2025/06/02/the-prompt-for-day-of.html), the prompt was _curve_.\n\n<img src=\"uploads/2025/daa616f219.jpg\" width=\"600\" height=\"600\" alt=\"A glass of beer casts a shadow on a wooden table illuminated by sunlight.\">\n",
+				"content_text": "Day two of the [Micro.blog photo challenge](https://challenges.micro.blog/2025/06/02/the-prompt-for-day-of.html), the prompt was _curve_.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/daa616f219.jpg\" width=\"600\" height=\"600\" alt=\"A glass of beer casts a shadow on a wooden table illuminated by sunlight.\">\n",
 				"date_published": "2025-06-02T21:35:59-04:00",
 				"url": "https://myles.social/2025/06/02/day-two-of-the-microblog.html",
 				"tags": ["Photography","Micro.blog photo challenge"]
@@ -18,8 +36,8 @@
 			{
 				"id": "http://myles.micro.blog/2025/06/01/on-the-first-day-of.html",
 				
-				"content_html": "<p>On the first day of the <a href=\"https://challenges.micro.blog/2025/06/01/the-prompt-for-day-of.html\">Micro.blog photo challenge</a>, I took a photo of a tree on the shore of Lake Ontario.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "On the first day of the [Micro.blog photo challenge](https://challenges.micro.blog/2025/06/01/the-prompt-for-day-of.html), I took a photo of a tree on the shore of Lake Ontario.\n\n<img src=\"uploads/2025/7c674d5912.jpg\" width=\"600\" height=\"600\" alt=\"A lakeside view features a sandy beach, lush tree, and boats docked by a pier under a partly cloudy sky.\">\n",
+				"content_html": "<p>On the first day of the <a href=\"https://challenges.micro.blog/2025/06/01/the-prompt-for-day-of.html\">Micro.blog photo challenge</a>, I took a photo of a <em>tree</em> on the shore of Lake Ontario.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "On the first day of the [Micro.blog photo challenge](https://challenges.micro.blog/2025/06/01/the-prompt-for-day-of.html), I took a photo of a _tree_ on the shore of Lake Ontario.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/7c674d5912.jpg\" width=\"600\" height=\"600\" alt=\"A lakeside view features a sandy beach, lush tree, and boats docked by a pier under a partly cloudy sky.\">\n",
 				"date_published": "2025-06-01T22:38:18-04:00",
 				"url": "https://myles.social/2025/06/01/on-the-first-day-of.html",
 				"tags": ["Photography","Micro.blog photo challenge"]
@@ -28,7 +46,7 @@
 				"id": "http://myles.micro.blog/2025/05/30/i-saw-a-coollooking-structure.html",
 				
 				"content_html": "<p>I saw a cool-looking structure today made of scaffolding and tarps near Fort York.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I saw a cool-looking structure today made of scaffolding and tarps near Fort York.\n\n<img src=\"uploads/2025/f7c9df08c9.jpg\" width=\"600\" height=\"600\" alt=\"A structure constructed from scaffolding, blue netting, and yellow buckets holds multiple plants.\"><img src=\"uploads/2025/7c8d9b760c.jpg\" width=\"600\" height=\"600\" alt=\"A colorful, multi-level urban garden structure made from large planters and scaffolding is set against a blue sky backdrop.\">\n",
+				"content_text": "I saw a cool-looking structure today made of scaffolding and tarps near Fort York.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/f7c9df08c9.jpg\" width=\"600\" height=\"600\" alt=\"A structure constructed from scaffolding, blue netting, and yellow buckets holds multiple plants.\"><img src=\"https://cdn.uploads.micro.blog/806/2025/7c8d9b760c.jpg\" width=\"600\" height=\"600\" alt=\"A colorful, multi-level urban garden structure made from large planters and scaffolding is set against a blue sky backdrop.\">\n",
 				"date_published": "2025-05-30T17:44:23-04:00",
 				"url": "https://myles.social/2025/05/30/i-saw-a-coollooking-structure.html",
 				"tags": ["Photography"]
@@ -37,7 +55,7 @@
 				"id": "http://myles.micro.blog/2025/05/30/saw-this-window-display-near.html",
 				
 				"content_html": "<p>Saw this window display near Dundas &amp; Howard Park: a stack of blinking alarm clocks, a fake fried egg, and a line of chips sorted by size.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Saw this window display near Dundas & Howard Park: a stack of blinking alarm clocks, a fake fried egg, and a line of chips sorted by size.\n\n<img src=\"uploads/2025/6e08314d84.jpg\" width=\"600\" height=\"600\" alt=\"A storefront window display features a stack of electronic devices surrounded by kitchen items and empty wine bottles.\"><img src=\"uploads/2025/e3054ab044.jpg\" width=\"600\" height=\"600\" alt=\"Several wine bottles, a pack of matches, and a lineup of a chips ordered by size are displayed near a window.\"><img src=\"uploads/2025/3b564e11c5.jpg\" width=\"600\" height=\"600\" alt=\"A storefront window display features various bottles and decorative items, with reflections of the street and trees visible on the glass.\">\n",
+				"content_text": "Saw this window display near Dundas & Howard Park: a stack of blinking alarm clocks, a fake fried egg, and a line of chips sorted by size.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/6e08314d84.jpg\" width=\"600\" height=\"600\" alt=\"A storefront window display features a stack of electronic devices surrounded by kitchen items and empty wine bottles.\"><img src=\"https://cdn.uploads.micro.blog/806/2025/e3054ab044.jpg\" width=\"600\" height=\"600\" alt=\"Several wine bottles, a pack of matches, and a lineup of a chips ordered by size are displayed near a window.\"><img src=\"https://cdn.uploads.micro.blog/806/2025/3b564e11c5.jpg\" width=\"600\" height=\"600\" alt=\"A storefront window display features various bottles and decorative items, with reflections of the street and trees visible on the glass.\">\n",
 				"date_published": "2025-05-30T13:09:12-04:00",
 				"url": "https://myles.social/2025/05/30/saw-this-window-display-near.html",
 				"tags": ["Photography"]
@@ -46,7 +64,7 @@
 				"id": "http://myles.micro.blog/2025/05/28/cat-in-a-window.html",
 				
 				"content_html": "<p>Cat in a window.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cat in a window.\n\n<img src=\"uploads/2025/ed67715eec204ca09fb92059fd8d6fd0.jpg\" width=\"600\" height=\"600\" alt=\"A photography of a cat asleep in the window of a first floor apartment.\">\n",
+				"content_text": "Cat in a window.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/ed67715eec204ca09fb92059fd8d6fd0.jpg\" width=\"600\" height=\"600\" alt=\"A photography of a cat asleep in the window of a first floor apartment.\">\n",
 				"date_published": "2025-05-28T11:37:57-04:00",
 				"url": "https://myles.social/2025/05/28/cat-in-a-window.html",
 				"tags": ["Photography"]
@@ -2168,18 +2186,10 @@
 				"url": "https://myles.social/2019/08/20/hasan-minhaj-on.html"
 			},
 			{
-				"id": "http://myles.micro.blog/2019/08/20/in-four-weeks.html",
-				
-				"content_html": "<p>In four weeks my long commute to Oakville will be at an end. I got a job located a twenty minute walk from home!</p>\n",
-				"content_text": "In four weeks my long commute to Oakville will be at an end. I got a job located a twenty minute walk from home!\n",
-				"date_published": "2019-08-20T18:06:36-04:00",
-				"url": "https://myles.social/2019/08/20/in-four-weeks.html"
-			},
-			{
 				"id": "http://myles.micro.blog/2019/08/19/stuck-at-long.html",
 				
 				"content_html": "<p>Stuck at <em>Long Branch GO Station</em> 🙄.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Stuck at _Long Branch GO Station_ 🙄. \n\n<a href=\"https://cdn.uploads.micro.blog/806/2019/6fbb05fcf1.jpg\"><img src=\"https://cdn.uploads.micro.blog/806/2019/6fbb05fcf1.jpg\" width=\"600\" height=\"450\" alt=\"Long Branch GO Station\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/806/2019/daeba996b7.jpg\"><img src=\"https://cdn.uploads.micro.blog/806/2019/daeba996b7.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Stuck at _Long Branch GO Station_ 🙄. \n\n<a href=\"https://myles.social/uploads/2019/6fbb05fcf1.jpg\"><img src=\"uploads/2019/6fbb05fcf1.jpg\" width=\"600\" height=\"450\" alt=\"Long Branch GO Station\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.social/uploads/2019/daeba996b7.jpg\"><img src=\"uploads/2019/daeba996b7.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-19T18:36:44-04:00",
 				"url": "https://myles.social/2019/08/19/stuck-at-long.html",
 				"tags": ["Photography"]
@@ -2188,7 +2198,7 @@
 				"id": "http://myles.micro.blog/2019/08/19/apple-spends-more.html",
 				
 				"content_html": "<p><a href=\"https://m.eldiario.es/economia/Apple-invertira-innovacion-economia-espanola_0_928457208.html\">Apple spends more on R&amp;D than the entire country of Spain</a>. As in the entire country of Spain both public and private organizations. Spain the world’s 13th largest economy with a population of 47 million people.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Apple spends more on R&D than the entire country of Spain](https://m.eldiario.es/economia/Apple-invertira-innovacion-economia-espanola_0_928457208.html). As in the entire country of Spain both public and private organizations. Spain the world’s 13th largest economy with a population of 47 million people.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2019/f9ca98aba3.jpg\" width=\"600\" height=\"430\" alt=\"\" />\n",
+				"content_text": "[Apple spends more on R&D than the entire country of Spain](https://m.eldiario.es/economia/Apple-invertira-innovacion-economia-espanola_0_928457208.html). As in the entire country of Spain both public and private organizations. Spain the world’s 13th largest economy with a population of 47 million people.\n\n<img src=\"uploads/2019/f9ca98aba3.jpg\" width=\"600\" height=\"430\" alt=\"\" />\n",
 				"date_published": "2019-08-19T18:14:58-04:00",
 				"url": "https://myles.social/2019/08/19/apple-spends-more.html",
 				"tags": ["Business"]
@@ -2215,7 +2225,7 @@
 				"id": "http://myles.micro.blog/2019/08/18/my-fortune-cookie.html",
 				
 				"content_html": "<p>My fortune cookie at <em>Mother’s Dumplings</em> today.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "My fortune cookie at _Mother’s Dumplings_ today.\n\n<a href=\"https://cdn.uploads.micro.blog/806/2019/29b1346e69.jpg\"><img src=\"https://cdn.uploads.micro.blog/806/2019/29b1346e69.jpg\" width=\"600\" height=\"600\" alt=\"Fortune cookie with, &quot;you are doing the right thing.&quot;\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/806/2019/0a4b3d536b.jpg\"><img src=\"https://cdn.uploads.micro.blog/806/2019/0a4b3d536b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "My fortune cookie at _Mother’s Dumplings_ today.\n\n<a href=\"https://myles.social/uploads/2019/29b1346e69.jpg\"><img src=\"uploads/2019/29b1346e69.jpg\" width=\"600\" height=\"600\" alt=\"Fortune cookie with, &quot;you are doing the right thing.&quot;\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.social/uploads/2019/0a4b3d536b.jpg\"><img src=\"uploads/2019/0a4b3d536b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-18T20:10:24-04:00",
 				"url": "https://myles.social/2019/08/18/my-fortune-cookie.html",
 				"tags": ["Photography"]
@@ -2232,7 +2242,7 @@
 				"id": "http://myles.micro.blog/2019/08/16/ugly-gerry-is.html",
 				
 				"content_html": "<p><a href=\"https://uglygerry.com/\">Ugly Gerry</a> is a font created by US congressional districts.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Ugly Gerry](https://uglygerry.com/) is a font created by US congressional districts.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2019/e8be3c20d7.jpg\" width=\"513\" height=\"600\" alt=\"\" />\n",
+				"content_text": "[Ugly Gerry](https://uglygerry.com/) is a font created by US congressional districts.\n\n<img src=\"uploads/2019/e8be3c20d7.jpg\" width=\"513\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-16T12:46:55-04:00",
 				"url": "https://myles.social/2019/08/16/ugly-gerry-is.html"
 			},
@@ -2267,7 +2277,7 @@
 				"id": "http://myles.micro.blog/2019/08/13/currently-reading-draplin.html",
 				
 				"content_html": "<p>Currently reading <em>Draplin Design Co. Pretty Much Everything</em> by Aaron James Draplin. This page is probably the most useful advice every, <strong>Vectors Are Free</strong>!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Currently reading _Draplin Design Co. Pretty Much Everything_ by Aaron James Draplin. This page is probably the most useful advice every, **Vectors Are Free**!\n\n<a href=\"https://cdn.uploads.micro.blog/806/2019/4af442e320.jpg\"><img src=\"https://cdn.uploads.micro.blog/806/2019/4af442e320.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Currently reading _Draplin Design Co. Pretty Much Everything_ by Aaron James Draplin. This page is probably the most useful advice every, **Vectors Are Free**!\n\n<a href=\"https://myles.social/uploads/2019/4af442e320.jpg\"><img src=\"uploads/2019/4af442e320.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-13T13:44:04-04:00",
 				"url": "https://myles.social/2019/08/13/currently-reading-draplin.html",
 				"tags": ["Photography"]
@@ -2294,7 +2304,7 @@
 				"id": "http://myles.micro.blog/2019/08/11/sitting-in-a.html",
 				
 				"content_html": "<p>Sitting in a park in Port Perry.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Sitting in a park in Port Perry. \n\n<a href=\"https://cdn.uploads.micro.blog/806/2019/57c9037470.jpg\"><img src=\"https://cdn.uploads.micro.blog/806/2019/57c9037470.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Sitting in a park in Port Perry. \n\n<a href=\"https://myles.social/uploads/2019/57c9037470.jpg\"><img src=\"uploads/2019/57c9037470.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-11T13:38:28-04:00",
 				"url": "https://myles.social/2019/08/11/sitting-in-a.html",
 				"tags": ["Photography"]
@@ -2303,7 +2313,7 @@
 				"id": "http://myles.micro.blog/2019/08/10/i-summer-in.html",
 				
 				"content_html": "<p>I ♥️ summer in Toronto.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I ♥️ summer in Toronto. \n\n<a href=\"https://cdn.uploads.micro.blog/806/2019/9fe5198f12.jpg\"><img src=\"https://cdn.uploads.micro.blog/806/2019/9fe5198f12.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/806/2019/31b947d971.jpg\"><img src=\"https://cdn.uploads.micro.blog/806/2019/31b947d971.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "I ♥️ summer in Toronto. \n\n<a href=\"https://myles.social/uploads/2019/9fe5198f12.jpg\"><img src=\"uploads/2019/9fe5198f12.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://myles.social/uploads/2019/31b947d971.jpg\"><img src=\"uploads/2019/31b947d971.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-10T11:46:00-04:00",
 				"url": "https://myles.social/2019/08/10/i-summer-in.html",
 				"tags": ["Photography"]
@@ -2312,7 +2322,7 @@
 				"id": "http://myles.micro.blog/2019/08/10/thinknum-a-dataset.html",
 				
 				"content_html": "<p><a href=\"https://www.thinknum.com/\">Thinknum</a>, a dataset serivce for revealing strategic movements within companies, made their <a href=\"https://thinknum-assets.s3.amazonaws.com/resources/Quest%20for%20Alpha%20-%20Thinknum.pdf\">pitch deck a comic book</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Thinknum](https://www.thinknum.com/), a dataset serivce for revealing strategic movements within companies, made their [pitch deck a comic book](https://thinknum-assets.s3.amazonaws.com/resources/Quest%20for%20Alpha%20-%20Thinknum.pdf).\n\n<img src=\"https://cdn.uploads.micro.blog/806/2019/ff72e6b724.jpg\" width=\"388\" height=\"569\" alt=\"\" />\n",
+				"content_text": "[Thinknum](https://www.thinknum.com/), a dataset serivce for revealing strategic movements within companies, made their [pitch deck a comic book](https://thinknum-assets.s3.amazonaws.com/resources/Quest%20for%20Alpha%20-%20Thinknum.pdf).\n\n<img src=\"uploads/2019/ff72e6b724.jpg\" width=\"388\" height=\"569\" alt=\"\" />\n",
 				"date_published": "2019-08-10T10:18:00-04:00",
 				"url": "https://myles.social/2019/08/10/thinknum-a-dataset.html",
 				"tags": ["Business"]
@@ -2330,7 +2340,7 @@
 				"id": "http://myles.micro.blog/2019/08/06/waiting-to-go.html",
 				
 				"content_html": "<p>Waiting to go home from Oakville.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Waiting to go home from Oakville. \n\n<a href=\"https://cdn.uploads.micro.blog/806/2019/f852a0174d.jpg\"><img src=\"https://cdn.uploads.micro.blog/806/2019/f852a0174d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Waiting to go home from Oakville. \n\n<a href=\"https://myles.social/uploads/2019/f852a0174d.jpg\"><img src=\"uploads/2019/f852a0174d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-06T20:18:00-04:00",
 				"url": "https://myles.social/2019/08/06/waiting-to-go.html",
 				"tags": ["Photography"]
@@ -2339,7 +2349,7 @@
 				"id": "http://myles.micro.blog/2019/08/04/outside-is-awesome.html",
 				
 				"content_html": "<p>Outside is awesome today!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Outside is awesome today!\n\n<a href=\"https://cdn.uploads.micro.blog/806/2019/82d3ba0ec9.jpg\"><img src=\"https://cdn.uploads.micro.blog/806/2019/82d3ba0ec9.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Outside is awesome today!\n\n<a href=\"https://myles.social/uploads/2019/82d3ba0ec9.jpg\"><img src=\"uploads/2019/82d3ba0ec9.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-04T13:43:00-04:00",
 				"url": "https://myles.social/2019/08/04/outside-is-awesome.html",
 				"tags": ["Photography"]
@@ -2366,7 +2376,7 @@
 				"id": "http://myles.micro.blog/2019/07/30/to-create-a.html",
 				"title": "Lovebot Graffiti in Toronto",
 				"content_html": "<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<blockquote><p>“To create a better future we must create love within our lives now we have the tools to create love. This is love for not just some of us but for all people. This is love not just in our time, but for all time.”</p> <p><cite>— Lovebot</cite></p></blockquote>\n\n<a href=\"http://myles.social/uploads/2019/f50ddd7e8c.jpg\"><img src=\"https://cdn.uploads.micro.blog/806/2019/f50ddd7e8c.jpg\" width=\"600\" height=\"450\" alt=\"Lovebot Graffiti\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n",
+				"content_text": "<blockquote><p>“To create a better future we must create love within our lives now we have the tools to create love. This is love for not just some of us but for all people. This is love not just in our time, but for all time.”</p> <p><cite>— Lovebot</cite></p></blockquote>\n\n<a href=\"http://myles.social/uploads/2019/f50ddd7e8c.jpg\"><img src=\"uploads/2019/f50ddd7e8c.jpg\" width=\"600\" height=\"450\" alt=\"Lovebot Graffiti\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n",
 				"date_published": "2019-07-30T17:44:00-04:00",
 				"url": "https://myles.social/2019/07/30/to-create-a.html",
 				"tags": ["Photography"]
