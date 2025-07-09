@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2025/07/09/095514.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2025/ee1bb588a5.jpg\" width=\"600\" height=\"600\" alt=\"Theo, a golden doodle, is lying on a herringbone floor in a cozy room with the word &quot;MOODY&quot; written on the floor.\">\n",
+				"date_published": "2025-07-09T09:55:14-04:00",
+				"url": "https://myles.social/2025/07/09/095514.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2025/06/29/just-reread-land-of-mirrors.html",
 				
 				"content_html": "<p>📚 Just re-read <a href=\"https://micro.blog/books/9781770467903\">Land of Mirrors</a> by Maria Medem, such a stunning and dreamlike graphic novel.</p>\n<!-- raw HTML omitted -->\n",
@@ -45,7 +54,7 @@
 				"id": "http://myles.micro.blog/2025/06/03/there-are-two-thermal-cameras.html",
 				
 				"content_html": "<p>There are two thermal cameras on The Bentway near Bathurst.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "There are two thermal cameras on The Bentway near Bathurst.\n\n<img src=\"uploads/2025/501c175e2d.jpg\" width=\"600\" height=\"600\" alt=\"A vibrant, multi-colored light display of a thermal camera is visible through a round, dark viewing apparatus in an urban nighttime setting.\"><img src=\"uploads/2025/68d75bf23b.jpg\" width=\"600\" height=\"600\" alt=\"A thermal camera display shows a heat map indicating temperature variations in a scene.\"><img src=\"uploads/2025/ee9d8ed754.jpg\" width=\"600\" height=\"600\" alt=\"Two thermal cameras are mounted on a colourful platform beneath a sign that reads The Granovsky Gluskin Path against a nighttime cityscape.\">\n",
+				"content_text": "There are two thermal cameras on The Bentway near Bathurst.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/501c175e2d.jpg\" width=\"600\" height=\"600\" alt=\"A vibrant, multi-colored light display of a thermal camera is visible through a round, dark viewing apparatus in an urban nighttime setting.\"><img src=\"https://cdn.uploads.micro.blog/806/2025/68d75bf23b.jpg\" width=\"600\" height=\"600\" alt=\"A thermal camera display shows a heat map indicating temperature variations in a scene.\"><img src=\"https://cdn.uploads.micro.blog/806/2025/ee9d8ed754.jpg\" width=\"600\" height=\"600\" alt=\"Two thermal cameras are mounted on a colourful platform beneath a sign that reads The Granovsky Gluskin Path against a nighttime cityscape.\">\n",
 				"date_published": "2025-06-03T22:11:55-04:00",
 				"url": "https://myles.social/2025/06/03/there-are-two-thermal-cameras.html",
 				"tags": ["Photography"]
