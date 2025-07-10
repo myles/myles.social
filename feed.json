@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2025/07/09/finished-reading-perfection-by-vincenzo.html",
+				
+				"content_html": "<p>Finished reading <a href=\"https://micro.blog/books/9781681378725\">Perfection</a> by Vincenzo Latronico 📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finished reading [Perfection](https://micro.blog/books/9781681378725) by Vincenzo Latronico 📚\n\n<img src=\"uploads/2025/71qp-wvmeal.-uf10001000-ql80-.jpg\" width=\"405\" height=\"600\" alt=\"A bouquet of lilies is creatively placed in a repurposed S. Pellegrino bottle on a wooden surface, surrounded by potted plants.\">\n",
+				"date_published": "2025-07-09T17:18:01-04:00",
+				"url": "https://myles.social/2025/07/09/finished-reading-perfection-by-vincenzo.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://myles.micro.blog/2025/07/09/095514.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -45,7 +54,7 @@
 				"id": "http://myles.micro.blog/2025/06/03/day-three-of-the-microblog.html",
 				
 				"content_html": "<p>Day three of the <a href=\"https://challenges.micro.blog/2025/06/03/the-prompt-for-day-of.html\">Micro.blog photo challenge</a> is <em>shadow</em>, and I thought I’d share a photo of the bridge near Fort York. In the spring and summer, spiders like to build their webs under the lights, casting the coolest shadows.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day three of the [Micro.blog photo challenge](https://challenges.micro.blog/2025/06/03/the-prompt-for-day-of.html) is _shadow_, and I thought I’d share a photo of the bridge near Fort York. In the spring and summer, spiders like to build their webs under the lights, casting the coolest shadows.\n\n<img src=\"uploads/2025/c4cb3f521d.jpg\" width=\"600\" height=\"600\" alt=\"A blurry shadow of a spider appears on a concrete surface.\">\n",
+				"content_text": "Day three of the [Micro.blog photo challenge](https://challenges.micro.blog/2025/06/03/the-prompt-for-day-of.html) is _shadow_, and I thought I’d share a photo of the bridge near Fort York. In the spring and summer, spiders like to build their webs under the lights, casting the coolest shadows.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/c4cb3f521d.jpg\" width=\"600\" height=\"600\" alt=\"A blurry shadow of a spider appears on a concrete surface.\">\n",
 				"date_published": "2025-06-03T22:37:26-04:00",
 				"url": "https://myles.social/2025/06/03/day-three-of-the-microblog.html",
 				"tags": ["Photography","Micro.blog photo challenge"]
