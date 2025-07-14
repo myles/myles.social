@@ -36,8 +36,8 @@
 			{
 				"id": "http://myles.micro.blog/2025/06/24/death-of-a-fantastic-machine.html",
 				
-				"content_html": "<p><a href=\"https://youtu.be/Sf3wEg9tsCY\">Death of a Fantastic Machine</a> looks at how photography has shaped our lives, from early photographs to generative images.</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/Sf3wEg9tsCY\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
-				"content_text": "[Death of a Fantastic Machine](https://youtu.be/Sf3wEg9tsCY) looks at how photography has shaped our lives, from early photographs to generative images.\n\n{{< youtube Sf3wEg9tsCY >}}\n",
+				"content_html": "<p>This documentary <a href=\"https://youtu.be/Sf3wEg9tsCY\">Death of a Fantastic Machine</a> explores how photography has shaped our lives, from early photographs to AI-generated images.</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/Sf3wEg9tsCY\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "This documentary [Death of a Fantastic Machine](https://youtu.be/Sf3wEg9tsCY) explores how photography has shaped our lives, from early photographs to AI-generated images.\n\n{{< youtube Sf3wEg9tsCY >}}\n",
 				"date_published": "2025-06-24T20:56:24-04:00",
 				"url": "https://myles.social/2025/06/24/death-of-a-fantastic-machine.html"
 			},
