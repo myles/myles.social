@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2025/08/23/tomatoes-from-the-garden.html",
+				
+				"content_html": "<p>Tomatoes from the garden.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tomatoes from the garden.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/d5f70dbee4394fda8d4bd72f4b796e53.jpg\" width=\"600\" height=\"600\" alt=\"A white bowl filled with freshly picked cherry tomatoes in shades of red and orange, some with green stems still attached, sitting on a wooden railing with greenery and a brick wall in the background.\">\n",
+				"date_published": "2025-08-23T18:23:33-04:00",
+				"url": "https://myles.social/2025/08/23/tomatoes-from-the-garden.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2025/08/11/lego-sculpture-on-the-corner.html",
 				
 				"content_html": "<p>Lego sculpture on the corner of Edwin Ave and Dupont St.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lego sculpture on the corner of Edwin Ave and Dupont St.\n\n<img src=\"uploads/2025/6c8fd0a14dfa480da0417a0242026568.jpg\" width=\"600\" height=\"600\" alt=\"A traffic light pole base on a city sidewalk is covered in colorful LEGO bricks, forming a tall, blocky structure. Small baskets filled with loose LEGO pieces surround the base, and scattered bricks are spread across the pavement.\">\n",
+				"content_text": "Lego sculpture on the corner of Edwin Ave and Dupont St.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/6c8fd0a14dfa480da0417a0242026568.jpg\" width=\"600\" height=\"600\" alt=\"A traffic light pole base on a city sidewalk is covered in colorful LEGO bricks, forming a tall, blocky structure. Small baskets filled with loose LEGO pieces surround the base, and scattered bricks are spread across the pavement.\">\n",
 				"date_published": "2025-08-11T15:55:00-04:00",
 				"url": "https://myles.social/2025/08/11/lego-sculpture-on-the-corner.html",
 				"tags": ["Photography"]
@@ -19,7 +28,7 @@
 				"id": "http://myles.micro.blog/2025/07/09/finished-reading-perfection-by-vincenzo.html",
 				
 				"content_html": "<p>Finished reading <a href=\"https://micro.blog/books/9781681378725\">Perfection</a> by Vincenzo Latronico 📚</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finished reading [Perfection](https://micro.blog/books/9781681378725) by Vincenzo Latronico 📚\n\n<img src=\"uploads/2025/71qp-wvmeal.-uf10001000-ql80-.jpg\" width=\"405\" height=\"600\" alt=\"A bouquet of lilies is creatively placed in a repurposed S. Pellegrino bottle on a wooden surface, surrounded by potted plants.\">\n",
+				"content_text": "Finished reading [Perfection](https://micro.blog/books/9781681378725) by Vincenzo Latronico 📚\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/71qp-wvmeal.-uf10001000-ql80-.jpg\" width=\"405\" height=\"600\" alt=\"A bouquet of lilies is creatively placed in a repurposed S. Pellegrino bottle on a wooden surface, surrounded by potted plants.\">\n",
 				"date_published": "2025-07-09T17:18:01-04:00",
 				"url": "https://myles.social/2025/07/09/finished-reading-perfection-by-vincenzo.html",
 				"tags": ["Books"]
@@ -28,7 +37,7 @@
 				"id": "http://myles.micro.blog/2025/07/09/095514.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2025/ee1bb588a5.jpg\" width=\"600\" height=\"600\" alt=\"Theo, a golden doodle, is lying on a herringbone floor in a cozy room with the word &quot;MOODY&quot; written on the floor.\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/806/2025/ee1bb588a5.jpg\" width=\"600\" height=\"600\" alt=\"Theo, a golden doodle, is lying on a herringbone floor in a cozy room with the word &quot;MOODY&quot; written on the floor.\">\n",
 				"date_published": "2025-07-09T09:55:14-04:00",
 				"url": "https://myles.social/2025/07/09/095514.html",
 				"tags": ["Photography"]
@@ -37,7 +46,7 @@
 				"id": "http://myles.micro.blog/2025/06/29/just-reread-land-of-mirrors.html",
 				
 				"content_html": "<p>📚 Just re-read <a href=\"https://micro.blog/books/9781770467903\">Land of Mirrors</a> by Maria Medem, such a stunning and dreamlike graphic novel.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📚 Just re-read [Land of Mirrors](https://micro.blog/books/9781770467903) by Maria Medem, such a stunning and dreamlike graphic novel.\n\n<img src=\"uploads/2025/img-0810.jpeg\" width=\"427\" height=\"600\" alt=\"Six-panel comic in a surreal, colorful landscape. A purple figure stands still beside a rock and two red berries as the sun sets. Their shadow stretches long across the ground. Text in the fourth panel says, ‘Today I have the same problem as yesterday.’ In the final panel, the figure is gone. Text reads, ‘It seems it won’t be solved anytime soon!’\">\n",
+				"content_text": "📚 Just re-read [Land of Mirrors](https://micro.blog/books/9781770467903) by Maria Medem, such a stunning and dreamlike graphic novel.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/img-0810.jpeg\" width=\"427\" height=\"600\" alt=\"Six-panel comic in a surreal, colorful landscape. A purple figure stands still beside a rock and two red berries as the sun sets. Their shadow stretches long across the ground. Text in the fourth panel says, ‘Today I have the same problem as yesterday.’ In the final panel, the figure is gone. Text reads, ‘It seems it won’t be solved anytime soon!’\">\n",
 				"date_published": "2025-06-29T13:20:54-04:00",
 				"url": "https://myles.social/2025/06/29/just-reread-land-of-mirrors.html",
 				"tags": ["Books"]
