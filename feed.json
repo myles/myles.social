@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://myles.micro.blog/2025/09/14/hannah-einbinders-personal-life-section.html",
+				
+				"content_html": "<p>Hannah Einbinder’s personal life section on Wikipedia is the best.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hannah Einbinder’s personal life section on Wikipedia is the best.\n\n<img src=\"uploads/2025/f8b8e89590.jpg\" width=\"600\" height=\"92\" alt=\"The text discusses personal details about Einbinder, mentioning that they are bisexual and have ADHD.\">\n",
+				"date_published": "2025-09-14T20:46:10-04:00",
+				"url": "https://myles.social/2025/09/14/hannah-einbinders-personal-life-section.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://myles.micro.blog/2025/08/23/tomatoes-from-the-garden.html",
 				
 				"content_html": "<p>Tomatoes from the garden.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tomatoes from the garden.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/d5f70dbee4394fda8d4bd72f4b796e53.jpg\" width=\"600\" height=\"600\" alt=\"A white bowl filled with freshly picked cherry tomatoes in shades of red and orange, some with green stems still attached, sitting on a wooden railing with greenery and a brick wall in the background.\">\n",
+				"content_text": "Tomatoes from the garden.\n\n<img src=\"uploads/2025/d5f70dbee4394fda8d4bd72f4b796e53.jpg\" width=\"600\" height=\"600\" alt=\"A white bowl filled with freshly picked cherry tomatoes in shades of red and orange, some with green stems still attached, sitting on a wooden railing with greenery and a brick wall in the background.\">\n",
 				"date_published": "2025-08-23T18:23:33-04:00",
 				"url": "https://myles.social/2025/08/23/tomatoes-from-the-garden.html",
 				"tags": ["Photography"]
@@ -19,7 +28,7 @@
 				"id": "http://myles.micro.blog/2025/08/11/lego-sculpture-on-the-corner.html",
 				
 				"content_html": "<p>Lego sculpture on the corner of Edwin Ave and Dupont St.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lego sculpture on the corner of Edwin Ave and Dupont St.\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/6c8fd0a14dfa480da0417a0242026568.jpg\" width=\"600\" height=\"600\" alt=\"A traffic light pole base on a city sidewalk is covered in colorful LEGO bricks, forming a tall, blocky structure. Small baskets filled with loose LEGO pieces surround the base, and scattered bricks are spread across the pavement.\">\n",
+				"content_text": "Lego sculpture on the corner of Edwin Ave and Dupont St.\n\n<img src=\"uploads/2025/6c8fd0a14dfa480da0417a0242026568.jpg\" width=\"600\" height=\"600\" alt=\"A traffic light pole base on a city sidewalk is covered in colorful LEGO bricks, forming a tall, blocky structure. Small baskets filled with loose LEGO pieces surround the base, and scattered bricks are spread across the pavement.\">\n",
 				"date_published": "2025-08-11T15:55:00-04:00",
 				"url": "https://myles.social/2025/08/11/lego-sculpture-on-the-corner.html",
 				"tags": ["Photography"]
@@ -28,7 +37,7 @@
 				"id": "http://myles.micro.blog/2025/07/09/finished-reading-perfection-by-vincenzo.html",
 				
 				"content_html": "<p>Finished reading <a href=\"https://micro.blog/books/9781681378725\">Perfection</a> by Vincenzo Latronico 📚</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finished reading [Perfection](https://micro.blog/books/9781681378725) by Vincenzo Latronico 📚\n\n<img src=\"https://cdn.uploads.micro.blog/806/2025/71qp-wvmeal.-uf10001000-ql80-.jpg\" width=\"405\" height=\"600\" alt=\"A bouquet of lilies is creatively placed in a repurposed S. Pellegrino bottle on a wooden surface, surrounded by potted plants.\">\n",
+				"content_text": "Finished reading [Perfection](https://micro.blog/books/9781681378725) by Vincenzo Latronico 📚\n\n<img src=\"uploads/2025/71qp-wvmeal.-uf10001000-ql80-.jpg\" width=\"405\" height=\"600\" alt=\"A bouquet of lilies is creatively placed in a repurposed S. Pellegrino bottle on a wooden surface, surrounded by potted plants.\">\n",
 				"date_published": "2025-07-09T17:18:01-04:00",
 				"url": "https://myles.social/2025/07/09/finished-reading-perfection-by-vincenzo.html",
 				"tags": ["Books"]
@@ -37,7 +46,7 @@
 				"id": "http://myles.micro.blog/2025/07/09/095514.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/806/2025/ee1bb588a5.jpg\" width=\"600\" height=\"600\" alt=\"Theo, a golden doodle, is lying on a herringbone floor in a cozy room with the word &quot;MOODY&quot; written on the floor.\">\n",
+				"content_text": "<img src=\"uploads/2025/ee1bb588a5.jpg\" width=\"600\" height=\"600\" alt=\"Theo, a golden doodle, is lying on a herringbone floor in a cozy room with the word &quot;MOODY&quot; written on the floor.\">\n",
 				"date_published": "2025-07-09T09:55:14-04:00",
 				"url": "https://myles.social/2025/07/09/095514.html",
 				"tags": ["Photography"]
@@ -257,8 +266,8 @@
 			{
 				"id": "http://myles.micro.blog/2025/04/16/i-finished-reading-land-of.html",
 				
-				"content_html": "<p>I finished reading <a href=\"https://micro.blog/books/9780593538258\">Land of Milk and Honey</a> by C Pam Zhang 📚</p>\n<p><img src=\"https://cdn.uploads.micro.blog/806/2025/image-20250416-234841-60ca241a.jpg\" alt=\"Cover of Land of Milk and Honey\"></p>\n",
-				"content_text": "I finished reading [Land of Milk and Honey](https://micro.blog/books/9780593538258) by C Pam Zhang 📚\n\n![Cover of Land of Milk and Honey](https://cdn.uploads.micro.blog/806/2025/image-20250416-234841-60ca241a.jpg)\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>I finished reading <a href=\"https://micro.blog/books/9780593538258\">Land of Milk and Honey</a> by C Pam Zhang 📚</p>\n<p><img src=\"https://cdn.uploads.micro.blog/806/2025/image-20250416-234841-60ca241a.jpg\" alt=\"Cover of Land of Milk and Honey\"></p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593538258/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nI finished reading [Land of Milk and Honey](https://micro.blog/books/9780593538258) by C Pam Zhang 📚\n\n![Cover of Land of Milk and Honey](https://cdn.uploads.micro.blog/806/2025/image-20250416-234841-60ca241a.jpg)\n",
 				"date_published": "2025-04-16T23:48:43-04:00",
 				"url": "https://myles.social/2025/04/16/i-finished-reading-land-of.html",
 				"tags": ["Books"]
@@ -345,8 +354,8 @@
 			{
 				"id": "http://myles.micro.blog/2025/03/21/finished-reading-witchcraft-for-wayward.html",
 				
-				"content_html": "<p>📚 Finished reading: <a href=\"https://micro.blog/books/9780593818183\">Witchcraft for Wayward Girls</a> by Grady Hendrix</p>\n<p><img src=\"https://cdn.uploads.micro.blog/806/2025/81tfqylwiql.jpg\" alt=\"Cover for &ldquo;Witchcraft for Wayward Girls by Grady Hendrix&rdquo;\"></p>\n",
-				"content_text": "📚 Finished reading: [Witchcraft for Wayward Girls](https://micro.blog/books/9780593818183) by Grady Hendrix\n\n![Cover for \"Witchcraft for Wayward Girls by Grady Hendrix\"](https://cdn.uploads.micro.blog/806/2025/81tfqylwiql.jpg)\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>📚 Finished reading: <a href=\"https://micro.blog/books/9780593818183\">Witchcraft for Wayward Girls</a> by Grady Hendrix</p>\n<p><img src=\"https://cdn.uploads.micro.blog/806/2025/81tfqylwiql.jpg\" alt=\"Cover for &ldquo;Witchcraft for Wayward Girls by Grady Hendrix&rdquo;\"></p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593818183/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n📚 Finished reading: [Witchcraft for Wayward Girls](https://micro.blog/books/9780593818183) by Grady Hendrix\n\n![Cover for \"Witchcraft for Wayward Girls by Grady Hendrix\"](https://cdn.uploads.micro.blog/806/2025/81tfqylwiql.jpg)\n",
 				"date_published": "2025-03-21T00:19:57-04:00",
 				"url": "https://myles.social/2025/03/21/finished-reading-witchcraft-for-wayward.html",
 				"tags": ["Books"]
@@ -532,8 +541,8 @@
 			{
 				"id": "http://myles.micro.blog/2025/01/06/finished-reading-set-my-heart.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781804293317\">Set My Heart on Fire</a> by Izumi Suzuki 📚</p>\n",
-				"content_text": "Finished reading: [Set My Heart on Fire](https://micro.blog/books/9781804293317) by Izumi Suzuki 📚\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781804293317\">Set My Heart on Fire</a> by Izumi Suzuki 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781804293317/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Set My Heart on Fire](https://micro.blog/books/9781804293317) by Izumi Suzuki 📚\n",
 				"date_published": "2025-01-06T21:40:00-04:00",
 				"url": "https://myles.social/2025/01/06/finished-reading-set-my-heart.html",
 				"tags": ["Books"]
@@ -674,8 +683,8 @@
 			{
 				"id": "http://myles.micro.blog/2024/03/09/arc-apps-json-export-to.html",
 				"title": "Arc App's JSON Export to SQLite",
-				"content_html": "<p>I started working on a Dogsheep utility for processing <a href=\"https://www.bigpaua.com/arcapp/\">Arc App</a>&rsquo;s Daily (or Monthly) JSON exports into a SQLite database. This provides the ability to analysis the places I visit and activities I am doing in <a href=\"https://datasette.io\">Datasette</a>.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/806/2025/bf8f1aec98.jpg\" alt=\"Screenshot of Datasette showing the timeline_items table in a SQLite database. There is a map at the bottom that is showing the locations I traveled in the last few days.\" title=\"Datasette screenshot.\"></p>\n<p>I’ve published a working alpha version of the Dogsheep utility, <a href=\"https://github.com/myles/arc-to-sqlite\" title=\"arc-to-sqlite GitHub repository\">arc-to-sqlite, on my GitHub</a>. Check it out if you are interested.</p>\n",
-				"content_text": "I started working on a Dogsheep utility for processing [Arc App](https://www.bigpaua.com/arcapp/)'s Daily (or Monthly) JSON exports into a SQLite database. This provides the ability to analysis the places I visit and activities I am doing in [Datasette](https://datasette.io).\n\n![Screenshot of Datasette showing the timeline_items table in a SQLite database. There is a map at the bottom that is showing the locations I traveled in the last few days.](https://cdn.uploads.micro.blog/806/2025/bf8f1aec98.jpg \"Datasette screenshot.\")\n\nI’ve published a working alpha version of the Dogsheep utility, [arc-to-sqlite, on my GitHub](https://github.com/myles/arc-to-sqlite \"arc-to-sqlite GitHub repository\"). Check it out if you are interested.\n",
+				"content_html": "<p>I started working on a Dogsheep utility for processing <a href=\"https://www.bigpaua.com/arcapp/\">Arc App</a>&rsquo;s Daily (or Monthly) JSON exports into a SQLite database. This provides the ability to analysis the places I visit and activities I am doing in <a href=\"https://datasette.io\">Datasette</a>.</p>\n<p><img src=\"https://myles.social/uploads/2025/bf8f1aec98.jpg\" alt=\"Screenshot of Datasette showing the timeline_items table in a SQLite database. There is a map at the bottom that is showing the locations I traveled in the last few days.\" title=\"Datasette screenshot.\"></p>\n<p>I’ve published a working alpha version of the Dogsheep utility, <a href=\"https://github.com/myles/arc-to-sqlite\" title=\"arc-to-sqlite GitHub repository\">arc-to-sqlite, on my GitHub</a>. Check it out if you are interested.</p>\n",
+				"content_text": "I started working on a Dogsheep utility for processing [Arc App](https://www.bigpaua.com/arcapp/)'s Daily (or Monthly) JSON exports into a SQLite database. This provides the ability to analysis the places I visit and activities I am doing in [Datasette](https://datasette.io).\n\n![Screenshot of Datasette showing the timeline_items table in a SQLite database. There is a map at the bottom that is showing the locations I traveled in the last few days.](https://myles.social/uploads/2025/bf8f1aec98.jpg \"Datasette screenshot.\")\n\nI’ve published a working alpha version of the Dogsheep utility, [arc-to-sqlite, on my GitHub](https://github.com/myles/arc-to-sqlite \"arc-to-sqlite GitHub repository\"). Check it out if you are interested.\n",
 				"date_published": "2024-03-09T17:19:42-04:00",
 				"url": "https://myles.social/2024/03/09/arc-apps-json-export-to.html",
 				"tags": ["Programming","Longform"]
@@ -1227,8 +1236,8 @@
 			{
 				"id": "http://myles.micro.blog/2021/01/24/finished-reading-everything.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781594205712\">Everything I Never Told You</a> by Celeste Ng 📚</p>\n",
-				"content_text": "Finished reading: [Everything I Never Told You](https://micro.blog/books/9781594205712) by Celeste Ng 📚\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781594205712\">Everything I Never Told You</a> by Celeste Ng 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781594205712/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Everything I Never Told You](https://micro.blog/books/9781594205712) by Celeste Ng 📚\n",
 				"date_published": "2021-01-25T00:36:00-04:00",
 				"url": "https://myles.social/2021/01/24/finished-reading-everything.html",
 				"tags": ["Books"]
@@ -2285,8 +2294,8 @@
 			{
 				"id": "http://myles.micro.blog/2019/08/18/currently-reading-annihilation.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780374104092\">Annihilation</a> by Jeff VanderMeer 📚</p>\n",
-				"content_text": "Currently reading: [Annihilation](https://micro.blog/books/9780374104092) by Jeff VanderMeer 📚\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9780374104092\">Annihilation</a> by Jeff VanderMeer 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780374104092/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Annihilation](https://micro.blog/books/9780374104092) by Jeff VanderMeer 📚\n",
 				"date_published": "2019-08-18T21:18:00-04:00",
 				"url": "https://myles.social/2019/08/18/currently-reading-annihilation.html",
 				"tags": ["Books"]
